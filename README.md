@@ -49,9 +49,3 @@ This starter kit is really designed as a kick off point for your own API adventu
 2. Add a route file that will access this data into `./routes/[your route file].js` -- hint: use the `./routes/users.js` as a starting point
 3. Add your new route file into the main routes file located at `./routes/routes.js`
 
-
-
-
-
-
-# b8b_result_analysis
