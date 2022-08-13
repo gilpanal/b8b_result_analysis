@@ -1,0 +1,134 @@
+{
+  "cello0.mp3": {
+    "file_name": "cello0.mp3",
+    "purpose": "",
+    "instrument": "",
+    "mixed": false,
+    "execs": [
+      {
+        "extract_time": 3535,
+        "predict_time": 613,
+        "labels": [
+          {
+            "label": "violin",
+            "max_perc": 0.7255346775054932,
+            "average": 0.6690284088253975,
+            "min_perc": 0.6007871031761169,
+            "repeats": 8,
+            "label_id": "9759448dd4a2039c7c7cf6786f610f9ae84192eb"
+          },
+          {
+            "label": "cello",
+            "max_perc": 0.9055132865905762,
+            "average": 0.7253029644489288,
+            "min_perc": 0.5033953189849854,
+            "repeats": 8,
+            "label_id": "a1a7c01693efabfd7641ae2ebf0cc78a8f06c947"
+          }
+        ],
+        "model": "mtt-musicnn-1",
+        "threshold": 0.5,
+        "predict_id": "32fc042ce4979d673944fd77bea0fbd8f43d0958"
+      },
+      {
+        "extract_time": 3404,
+        "predict_time": 530,
+        "labels": [
+          {
+            "label": "violin",
+            "max_perc": 0.7255346775054932,
+            "average": 0.6690284088253975,
+            "min_perc": 0.6007871031761169,
+            "repeats": 8,
+            "label_id": "9759448dd4a2039c7c7cf6786f610f9ae84192eb"
+          },
+          {
+            "label": "cello",
+            "max_perc": 0.9055132865905762,
+            "average": 0.7253029644489288,
+            "min_perc": 0.5033953189849854,
+            "repeats": 8,
+            "label_id": "a1a7c01693efabfd7641ae2ebf0cc78a8f06c947"
+          }
+        ],
+        "model": "mtt-musicnn-1",
+        "threshold": 0.5,
+        "predict_id": "0b7c410c032951e8ce744591d0818de89e7cde56"
+      }
+    ]
+  },
+  "cello1.mp3": {
+    "file_name": "cello1.mp3",
+    "purpose": "",
+    "instrument": "",
+    "mixed": false,
+    "execs": [
+      {
+        "extract_time": 3637,
+        "predict_time": 584,
+        "labels": [
+          {
+            "label": "violin",
+            "max_perc": 0.8148348331451416,
+            "average": 0.713568203151226,
+            "min_perc": 0.6635259389877319,
+            "repeats": 8,
+            "label_id": "aaa0362705aac6dc9b08e58e5d76ed5037d6526c"
+          },
+          {
+            "label": "cello",
+            "max_perc": 0.8521294593811035,
+            "average": 0.7348844334483147,
+            "min_perc": 0.6529240012168884,
+            "repeats": 8,
+            "label_id": "a84ff84275277c47c139c3c0b1b00f6078dcebc7"
+          }
+        ],
+        "model": "mtt-musicnn-1",
+        "threshold": 0.5,
+        "predict_id": "2e61e08e3182992665966ea6f9f4fbc959333f74"
+      }
+    ]
+  },
+  "cello2.mp3": {
+    "file_name": "cello2.mp3",
+    "purpose": "",
+    "instrument": "",
+    "mixed": false,
+    "execs": [
+      {
+        "extract_time": 3329,
+        "predict_time": 664,
+        "labels": [
+          {
+            "label": "violin",
+            "max_perc": 0.6780022382736206,
+            "average": 0.6044889986515045,
+            "min_perc": 0.5277011394500732,
+            "repeats": 6,
+            "label_id": "4ff53769e2a4584024d70350c97bbe38278560e8"
+          },
+          {
+            "label": "piano",
+            "max_perc": 0.7939784526824951,
+            "average": 0.6624025305112203,
+            "min_perc": 0.5426347255706787,
+            "repeats": 3,
+            "label_id": "9e68747ee1b361038ba73c9ada92ab90b847c418"
+          },
+          {
+            "label": "cello",
+            "max_perc": 0.5604965686798096,
+            "average": 0.5565856993198395,
+            "min_perc": 0.5526748299598694,
+            "repeats": 2,
+            "label_id": "22484c85887d216f5879d2536bd66846a8117003"
+          }
+        ],
+        "model": "mtt-musicnn-1",
+        "threshold": 0.5,
+        "predict_id": "59fc3e8c56d54a466a53490acd3da7d2da4ed822"
+      }
+    ]
+  }
+}
