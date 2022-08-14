@@ -72,7 +72,7 @@ start = async () => {
         // executions due all inferences (labels) 
         // are the same for each execution
 
-        if (execs[0].labels) {
+        if (execs[0] && execs[0].labels) {
 
             let acc = 0
 

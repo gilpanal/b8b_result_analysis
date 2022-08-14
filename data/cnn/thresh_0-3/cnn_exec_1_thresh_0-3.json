@@ -1,0 +1,1578 @@
+{
+    "cello0.mp3": {
+      "file_name": "cello0.mp3",
+      "instrument": "cello",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3302,
+          "predict_time": 575,
+          "labels": [
+            {
+              "label": "violin",
+              "max_perc": 0.7255346775054932,
+              "average": 0.6339149938689338,
+              "min_perc": 0.3530076742172241,
+              "repeats": 9,
+              "label_id": "650666b5dcb8d782f232e4f269230e48990cbc21"
+            },
+            {
+              "label": "cello",
+              "max_perc": 0.9055132865905762,
+              "average": 0.6513975024223327,
+              "min_perc": 0.3016692101955414,
+              "repeats": 10,
+              "label_id": "a2fb129836571fab61f50dd8c0279463bc05fbe4"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "218db7c5b41bfe23945ce591555b3e921d35a76a"
+        }
+      ]
+    },
+    "cello1.mp3": {
+      "file_name": "cello1.mp3",
+      "instrument": "cello",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3530,
+          "predict_time": 530,
+          "labels": [
+            {
+              "label": "violin",
+              "max_perc": 0.8148348331451416,
+              "average": 0.6852962970733643,
+              "min_perc": 0.45912104845046997,
+              "repeats": 9,
+              "label_id": "53c94a24531fe2ef183c715121a5617d49db3ccc"
+            },
+            {
+              "label": "cello",
+              "max_perc": 0.8521294593811035,
+              "average": 0.6979419390360514,
+              "min_perc": 0.40240198373794556,
+              "repeats": 9,
+              "label_id": "a918c806b357b4c2d456a4946fca141eddf8ff56"
+            },
+            {
+              "label": "guitar",
+              "max_perc": 0.33071601390838623,
+              "average": 0.33071601390838623,
+              "min_perc": 0.33071601390838623,
+              "repeats": 1,
+              "label_id": "3c4a63aae0b27c1cb9c3d542bea1f4b5e7b582e0"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "188a41941121eda4bd26b0d369056e067af42cc0"
+        }
+      ]
+    },
+    "cello2.mp3": {
+      "file_name": "cello2.mp3",
+      "instrument": "cello",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3380,
+          "predict_time": 563,
+          "labels": [
+            {
+              "label": "violin",
+              "max_perc": 0.6780022382736206,
+              "average": 0.5649195127189159,
+              "min_perc": 0.39544808864593506,
+              "repeats": 8,
+              "label_id": "53ef9531d14203ea415165b83146f16904b36dc8"
+            },
+            {
+              "label": "cello",
+              "max_perc": 0.5604965686798096,
+              "average": 0.44679578542709353,
+              "min_perc": 0.3252575993537903,
+              "repeats": 5,
+              "label_id": "fb5735d6c21c4664baa7c6e164bc21aacea27901"
+            },
+            {
+              "label": "piano",
+              "max_perc": 0.7939784526824951,
+              "average": 0.4984643629619053,
+              "min_perc": 0.30458956956863403,
+              "repeats": 7,
+              "label_id": "c7fe56bee9e5a8339ec665e4baad30ca8c6995d1"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "63ec6233f9cbf27337718b8a941df8380359f254"
+        }
+      ]
+    },
+    "cello3.mp3": {
+      "file_name": "cello3.mp3",
+      "instrument": "cello",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3357,
+          "predict_time": 516,
+          "labels": [
+            {
+              "label": "violin",
+              "max_perc": 0.802977442741394,
+              "average": 0.714180999994278,
+              "min_perc": 0.508418619632721,
+              "repeats": 10,
+              "label_id": "5ff9633111ee83938b547e87763b613d3e6eb541"
+            },
+            {
+              "label": "cello",
+              "max_perc": 0.9286001920700073,
+              "average": 0.8636074662208557,
+              "min_perc": 0.6738457083702087,
+              "repeats": 10,
+              "label_id": "f10a296497cb6e90faa935a3452cf866cc83c711"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "32425b548b633d5753e9db7cc9f3e47c75dd0567"
+        }
+      ]
+    },
+    "cello4.mp3": {
+      "file_name": "cello4.mp3",
+      "instrument": "cello",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3470,
+          "predict_time": 551,
+          "labels": [
+            {
+              "label": "violin",
+              "max_perc": 0.824908971786499,
+              "average": 0.719554728269577,
+              "min_perc": 0.3002379536628723,
+              "repeats": 10,
+              "label_id": "ec4f1c0ce5f6432a044933250c0f242582ff41c8"
+            },
+            {
+              "label": "cello",
+              "max_perc": 0.8927329182624817,
+              "average": 0.8184033364057541,
+              "min_perc": 0.49116888642311096,
+              "repeats": 10,
+              "label_id": "70e374f715f819cfebd4cc904fd68b37a5b93b29"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "684e00deabd39f0a3c84491bd6f0323a69353d1a"
+        }
+      ]
+    },
+    "drums0.mp3": {
+      "file_name": "drums0.mp3",
+      "instrument": "drums",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3378,
+          "predict_time": 533,
+          "labels": [
+            {
+              "label": "drums",
+              "max_perc": 0.7922371625900269,
+              "average": 0.5914909797055381,
+              "min_perc": 0.3178623616695404,
+              "repeats": 7,
+              "label_id": "3d8d2919186b1b3d184518cff43b38c8f94ff179"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "5d9c12f638f23229aeafc9e85cabce9f03e5eeb2"
+        }
+      ]
+    },
+    "drums1.mp3": {
+      "file_name": "drums1.mp3",
+      "instrument": "drums",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3411,
+          "predict_time": 528,
+          "labels": [
+            {
+              "label": "drums",
+              "max_perc": 0.6794489622116089,
+              "average": 0.5049352161586285,
+              "min_perc": 0.3326314687728882,
+              "repeats": 8,
+              "label_id": "878597a6f6023db2134c874354ebf738c9cfb777"
+            },
+            {
+              "label": "piano",
+              "max_perc": 0.5608034133911133,
+              "average": 0.4416021257638931,
+              "min_perc": 0.32675880193710327,
+              "repeats": 4,
+              "label_id": "71a32fcfd79c6624358a1adfb2afb47431fafe5a"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "930c4fa5f9e3142077cfeb8ac8d04f37b385e06c"
+        }
+      ]
+    },
+    "drums2.mp3": {
+      "file_name": "drums2.mp3",
+      "instrument": "drums",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3425,
+          "predict_time": 538,
+          "labels": [
+            {
+              "label": "drums",
+              "max_perc": 0.7279306650161743,
+              "average": 0.5691389180719852,
+              "min_perc": 0.4068492650985718,
+              "repeats": 8,
+              "label_id": "dc06c827f0af545d575956234dddc044fe9632be"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "aa5e8cb474c90dd68822f025c32b53c4bcad6bee"
+        }
+      ]
+    },
+    "drums3.mp3": {
+      "file_name": "drums3.mp3",
+      "instrument": "drums",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3425,
+          "predict_time": 557,
+          "labels": [
+            {
+              "label": "drums",
+              "max_perc": 0.6319139003753662,
+              "average": 0.5218546821011437,
+              "min_perc": 0.42980024218559265,
+              "repeats": 9,
+              "label_id": "96d8e1630960bb1927e5d28818f809ff47d90a3b"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "617d3cd562242df7e299c4ccb93751d86b64ee8d"
+        }
+      ]
+    },
+    "drums4.mp3": {
+      "file_name": "drums4.mp3",
+      "instrument": "drums",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3371,
+          "predict_time": 559,
+          "labels": [
+            {
+              "label": "drums",
+              "max_perc": 0.8150311708450317,
+              "average": 0.6775041341781616,
+              "min_perc": 0.5311963558197021,
+              "repeats": 10,
+              "label_id": "ff4ca4a71e117ce8b6a8808fc44363226fb6e359"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "7f3d1beb2d0b2e05c247d8666f4fb7d75c4a99fd"
+        }
+      ]
+    },
+    "flute0.mp3": {
+      "file_name": "flute0.mp3",
+      "instrument": "flute",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3336,
+          "predict_time": 601,
+          "labels": [
+            {
+              "label": "violin",
+              "max_perc": 0.7283751964569092,
+              "average": 0.4251098367902968,
+              "min_perc": 0.30406057834625244,
+              "repeats": 9,
+              "label_id": "15553960faf6efd2119e39702f5b25aec4ace93b"
+            },
+            {
+              "label": "flute",
+              "max_perc": 0.7835583686828613,
+              "average": 0.6395351224475436,
+              "min_perc": 0.4222832918167114,
+              "repeats": 9,
+              "label_id": "405cb1540e011e393fe6a1862e165feacba1e55e"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "d49adc36d511d57263bce2261e20e7ab30d913ce"
+        }
+      ]
+    },
+    "flute1.mp3": {
+      "file_name": "flute1.mp3",
+      "instrument": "flute",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3386,
+          "predict_time": 529,
+          "labels": [
+            {
+              "label": "flute",
+              "max_perc": 0.9363652467727661,
+              "average": 0.8283588528633118,
+              "min_perc": 0.5144295692443848,
+              "repeats": 10,
+              "label_id": "d3095fdf3ef47e7a7a17bc23d6fa1129dbc8a1f2"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "3041dc13fcb8aa281010f2bfd4198defec8fe7a2"
+        }
+      ]
+    },
+    "flute2.mp3": {
+      "file_name": "flute2.mp3",
+      "instrument": "flute",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3366,
+          "predict_time": 554,
+          "labels": [
+            {
+              "label": "flute",
+              "max_perc": 0.7444014549255371,
+              "average": 0.549833995103836,
+              "min_perc": 0.354533314704895,
+              "repeats": 10,
+              "label_id": "f384b2ddd7fbd45423e0c30a91a8a13d718e724a"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "b552ef2eae80217f369240a962ce78c1b7c61e6f"
+        }
+      ]
+    },
+    "flute3.mp3": {
+      "file_name": "flute3.mp3",
+      "instrument": "flute",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3464,
+          "predict_time": 535,
+          "labels": [
+            {
+              "label": "flute",
+              "max_perc": 0.9017688035964966,
+              "average": 0.7470892012119293,
+              "min_perc": 0.5893430709838867,
+              "repeats": 10,
+              "label_id": "458e358cf3c9c04ec9dd8f731d71f87f8d2e356e"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "d0702efb675dd294aae17b6ad58f3f48f549287a"
+        }
+      ]
+    },
+    "flute4.mp3": {
+      "file_name": "flute4.mp3",
+      "instrument": "flute",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3312,
+          "predict_time": 534,
+          "labels": [
+            {
+              "label": "flute",
+              "max_perc": 0.7820993065834045,
+              "average": 0.7581876963376999,
+              "min_perc": 0.7015013694763184,
+              "repeats": 4,
+              "label_id": "7b0dcd69cad86d65b05554d63a2317ddbc2ef1da"
+            },
+            {
+              "label": "violin",
+              "max_perc": 0.8333063125610352,
+              "average": 0.6369408294558525,
+              "min_perc": 0.3003464937210083,
+              "repeats": 8,
+              "label_id": "3310b199eaeefe14fefe96636f59f0dcbd28d4c0"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "ede0ae282b1d3d526a2f403ff7e2f7aa7193d1a6"
+        }
+      ]
+    },
+    "guitar0.mp3": {
+      "file_name": "guitar0.mp3",
+      "instrument": "guitar",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3357,
+          "predict_time": 520,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.7445361614227295,
+              "average": 0.6529603362083435,
+              "min_perc": 0.5289393663406372,
+              "repeats": 10,
+              "label_id": "de6ac1c65557f27fadae39d0960c07545a9316f6"
+            },
+            {
+              "label": "piano",
+              "max_perc": 0.37119385600090027,
+              "average": 0.35933367908000946,
+              "min_perc": 0.34747350215911865,
+              "repeats": 2,
+              "label_id": "e9813e174dd5dbd0e4ca492eae67021e2b505d1c"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "d61c918d5cf0148cccf0ac33934a1d64924d72cc"
+        }
+      ]
+    },
+    "guitar1.mp3": {
+      "file_name": "guitar1.mp3",
+      "instrument": "guitar",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3315,
+          "predict_time": 524,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.9586694240570068,
+              "average": 0.9284815430641175,
+              "min_perc": 0.8828074932098389,
+              "repeats": 10,
+              "label_id": "1a4c32734133f5c65bbcf1fd64d64d489cd35084"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "020fcd28b62c9cc3b7483b0aefb25094500392fe"
+        }
+      ]
+    },
+    "guitar2.mp3": {
+      "file_name": "guitar2.mp3",
+      "instrument": "guitar",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3401,
+          "predict_time": 595,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.8728506565093994,
+              "average": 0.8058418273925781,
+              "min_perc": 0.7196506261825562,
+              "repeats": 10,
+              "label_id": "7931e510830b1c7afc53c597711a7bd29428e6c9"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "789fbcb5250edf8ee6297c29c739563c3267abce"
+        }
+      ]
+    },
+    "guitar3.mp3": {
+      "file_name": "guitar3.mp3",
+      "instrument": "guitar",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3325,
+          "predict_time": 562,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.9359292984008789,
+              "average": 0.879165768623352,
+              "min_perc": 0.7908563613891602,
+              "repeats": 10,
+              "label_id": "e896047e2ccc81c5aa3d956ab2c266d189b0c628"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "05fd2a7a8b0a6bbcf55bb789867b62c7fa8ace20"
+        }
+      ]
+    },
+    "guitar4.mp3": {
+      "file_name": "guitar4.mp3",
+      "instrument": "guitar",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3368,
+          "predict_time": 540,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.7014338970184326,
+              "average": 0.6387929141521453,
+              "min_perc": 0.4811142683029175,
+              "repeats": 10,
+              "label_id": "389e085f856ca0128e4e3757979056af6e225d2d"
+            },
+            {
+              "label": "male",
+              "max_perc": 0.37857767939567566,
+              "average": 0.3270422279834747,
+              "min_perc": 0.30152428150177,
+              "repeats": 5,
+              "label_id": "2705c3ce6dbe0d78e517bb62e5ca1149ef6d7bfc"
+            },
+            {
+              "label": "man",
+              "max_perc": 0.33723974227905273,
+              "average": 0.33723974227905273,
+              "min_perc": 0.33723974227905273,
+              "repeats": 1,
+              "label_id": "89b7fe5b2e7487ffae029fe9e84edee1230f6178"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "fed44f0a516d98a92f5163c89b56dab2e2c29342"
+        }
+      ]
+    },
+    "harp0.mp3": {
+      "file_name": "harp0.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3407,
+          "predict_time": 537,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.8119598031044006,
+              "average": 0.7314554035663605,
+              "min_perc": 0.6331791281700134,
+              "repeats": 10,
+              "label_id": "47d8a5e988302c1ba9d302ee32437c8ea50fe060"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.5061802864074707,
+              "average": 0.40246254578232765,
+              "min_perc": 0.34421306848526,
+              "repeats": 8,
+              "label_id": "57b983a9742f7408c3e06ab8dfe7b1fd4bcf6243"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "e200f5613508633a4be4e3c78baf63e5cd7c6cc5"
+        }
+      ]
+    },
+    "harp1.mp3": {
+      "file_name": "harp1.mp3",
+      "instrument": "harp",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3393,
+          "predict_time": 527,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.7336632609367371,
+              "average": 0.5466236836380429,
+              "min_perc": 0.3988569378852844,
+              "repeats": 9,
+              "label_id": "f61cd36fb8a149a667d0e4246fcf94a5b8df092e"
+            },
+            {
+              "label": "violin",
+              "max_perc": 0.7263768315315247,
+              "average": 0.5541870296001434,
+              "min_perc": 0.4435766935348511,
+              "repeats": 3,
+              "label_id": "eac2d5f0a582f8be1db23eab1e5c9f4158bf0473"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.5757051706314087,
+              "average": 0.42003252108891803,
+              "min_perc": 0.31050390005111694,
+              "repeats": 3,
+              "label_id": "6aee333968ad87feb6bdce5f97581094da9b3178"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "33d6db1bb239079cf398d7860bd168546838c616"
+        }
+      ]
+    },
+    "harp2.mp3": {
+      "file_name": "harp2.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3751,
+          "predict_time": 593,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.7460812926292419,
+              "average": 0.6031461000442505,
+              "min_perc": 0.3631797432899475,
+              "repeats": 10,
+              "label_id": "597f7bf84c95b4a200b48b7de5eda757b3eb4b9e"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.4935089945793152,
+              "average": 0.3646016657352448,
+              "min_perc": 0.30846643447875977,
+              "repeats": 5,
+              "label_id": "26ab68b3fe6301e1936bee32e814d05ff16b15b8"
+            },
+            {
+              "label": "piano",
+              "max_perc": 0.4097929000854492,
+              "average": 0.4097929000854492,
+              "min_perc": 0.4097929000854492,
+              "repeats": 1,
+              "label_id": "0f20ad9dc6c40308fb70b1763d8989c97cb2cf1f"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "cc058c353359aff41a4662d88b8cd23940386c20"
+        }
+      ]
+    },
+    "harp3.mp3": {
+      "file_name": "harp3.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3378,
+          "predict_time": 527,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.7510783672332764,
+              "average": 0.6238617599010468,
+              "min_perc": 0.5136837959289551,
+              "repeats": 10,
+              "label_id": "67a28cf538eb231d6c9cb06135783d1c76cf5a07"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.49583402276039124,
+              "average": 0.3786255845001766,
+              "min_perc": 0.3102734386920929,
+              "repeats": 7,
+              "label_id": "2ef17735c8922b41d4fdc10227b92b61311abdad"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "62220b8bd2b6389740108fc5ae04b0d87f939412"
+        }
+      ]
+    },
+    "harp4.mp3": {
+      "file_name": "harp4.mp3",
+      "instrument": "harp",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3509,
+          "predict_time": 533,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.47003623843193054,
+              "average": 0.45027023553848267,
+              "min_perc": 0.4305042326450348,
+              "repeats": 2,
+              "label_id": "a18787bf0662df3b95589331a9214019d52bea63"
+            },
+            {
+              "label": "piano",
+              "max_perc": 0.6298596262931824,
+              "average": 0.4195934385061264,
+              "min_perc": 0.305766761302948,
+              "repeats": 4,
+              "label_id": "2454f7d0525a044a0696c06bd7452598f3323ad1"
+            },
+            {
+              "label": "flute",
+              "max_perc": 0.5905811190605164,
+              "average": 0.5003096958001455,
+              "min_perc": 0.3595152199268341,
+              "repeats": 3,
+              "label_id": "51b5a4a86ebb1b2bda02c86c77b101cc87f7e3c5"
+            },
+            {
+              "label": "violin",
+              "max_perc": 0.44704681634902954,
+              "average": 0.3907819290955861,
+              "min_perc": 0.34449347853660583,
+              "repeats": 3,
+              "label_id": "ee7e889cc5d8e21df6bbcc76b7c952849b013c14"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "dded9e61a84ad2875acb7f726aca9ff4f084ac9c"
+        }
+      ]
+    },
+    "harpsichord0.mp3": {
+      "file_name": "harpsichord0.mp3",
+      "instrument": "harpsichord",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3352,
+          "predict_time": 533,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.42433953285217285,
+              "average": 0.42433953285217285,
+              "min_perc": 0.42433953285217285,
+              "repeats": 1,
+              "label_id": "b05deb0b4ab11a97100542616d53ecbb0620ee2a"
+            },
+            {
+              "label": "harpsichord",
+              "max_perc": 0.8218531608581543,
+              "average": 0.6458142962720659,
+              "min_perc": 0.3171938955783844,
+              "repeats": 9,
+              "label_id": "829fd7a65e35bac100cd72e808eab74a2a433984"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "12eb95c07df7614629bcdb2913e186ab4e096916"
+        }
+      ]
+    },
+    "harpsichord1.mp3": {
+      "file_name": "harpsichord1.mp3",
+      "instrument": "harpsichord",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3355,
+          "predict_time": 535,
+          "labels": [
+            {
+              "label": "harpsichord",
+              "max_perc": 0.6907241940498352,
+              "average": 0.5477250946892632,
+              "min_perc": 0.31668204069137573,
+              "repeats": 9,
+              "label_id": "3dfff16a96eb8421747902d1b488590c71f10d57"
+            },
+            {
+              "label": "guitar",
+              "max_perc": 0.40949296951293945,
+              "average": 0.385968138774236,
+              "min_perc": 0.3484575152397156,
+              "repeats": 3,
+              "label_id": "6810d34037175bbcfe6a908ae0ef7aaa2fe9072d"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "72f6b0b0976b268f4fc29c94fba0e2242d9ba2f0"
+        }
+      ]
+    },
+    "harpsichord2.mp3": {
+      "file_name": "harpsichord2.mp3",
+      "instrument": "harpsichord",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3534,
+          "predict_time": 519,
+          "labels": [
+            {
+              "label": "harpsichord",
+              "max_perc": 0.8294287919998169,
+              "average": 0.673794823884964,
+              "min_perc": 0.3293750286102295,
+              "repeats": 10,
+              "label_id": "601f4990c0bf734949c6b60b0cb45cf6ef325d69"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "8e00251881a1871729b52ec68631571a0968db26"
+        }
+      ]
+    },
+    "harpsichord3.mp3": {
+      "file_name": "harpsichord3.mp3",
+      "instrument": "harpsichord",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3305,
+          "predict_time": 520,
+          "labels": [
+            {
+              "label": "harpsichord",
+              "max_perc": 0.759162962436676,
+              "average": 0.6687396764755249,
+              "min_perc": 0.3981921672821045,
+              "repeats": 10,
+              "label_id": "f966bc38115a9444485cdf743ba2dab92f28b244"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "356e25c6d17b88c4a4056dfefc28ca2a338accdb"
+        }
+      ]
+    },
+    "harpsichord4.mp3": {
+      "file_name": "harpsichord4.mp3",
+      "instrument": "harpsichord",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3274,
+          "predict_time": 523,
+          "labels": [
+            {
+              "label": "harpsichord",
+              "max_perc": 0.8402165174484253,
+              "average": 0.7458313941955567,
+              "min_perc": 0.515353262424469,
+              "repeats": 10,
+              "label_id": "4ac2bc24dda92d6d00da94a748d36f1c76c45a16"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "a7c682fecafa74bec0ba3d52496ca006953f37e7"
+        }
+      ]
+    },
+    "piano0.mp3": {
+      "file_name": "piano0.mp3",
+      "instrument": "piano",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3366,
+          "predict_time": 524,
+          "labels": [
+            {
+              "label": "piano",
+              "max_perc": 0.9870067834854126,
+              "average": 0.9095824956893921,
+              "min_perc": 0.6096600294113159,
+              "repeats": 10,
+              "label_id": "4332429ca67a8cee545b3fa1e7da719664712ffc"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "1a8e455cbf046afd3cf3d1d5467df4a7d03968a4"
+        }
+      ]
+    },
+    "piano1.mp3": {
+      "file_name": "piano1.mp3",
+      "instrument": "piano",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3307,
+          "predict_time": 527,
+          "labels": [
+            {
+              "label": "piano",
+              "max_perc": 0.9895275831222534,
+              "average": 0.9157511353492737,
+              "min_perc": 0.46453070640563965,
+              "repeats": 10,
+              "label_id": "659b9bba8bd323e71b9b39e475a52e14183b2775"
+            },
+            {
+              "label": "guitar",
+              "max_perc": 0.44610026478767395,
+              "average": 0.44610026478767395,
+              "min_perc": 0.44610026478767395,
+              "repeats": 1,
+              "label_id": "3c75d7f0bc34797ef73e3da4cc7004cabd70ccef"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "d7806691998c0faca8c34daf91140abbf5c4c6fa"
+        }
+      ]
+    },
+    "piano2.mp3": {
+      "file_name": "piano2.mp3",
+      "instrument": "piano",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3256,
+          "predict_time": 522,
+          "labels": [
+            {
+              "label": "piano",
+              "max_perc": 0.9840072393417358,
+              "average": 0.9422665953636169,
+              "min_perc": 0.8244656324386597,
+              "repeats": 10,
+              "label_id": "c322a5818edde8e7a1f32bcc93e63cc52c222100"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "3d38efbd033e9ab847efba93e05ebecee941021c"
+        }
+      ]
+    },
+    "piano3.mp3": {
+      "file_name": "piano3.mp3",
+      "instrument": "piano",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3344,
+          "predict_time": 524,
+          "labels": [
+            {
+              "label": "piano",
+              "max_perc": 0.9485859274864197,
+              "average": 0.8081577089097765,
+              "min_perc": 0.3829802870750427,
+              "repeats": 9,
+              "label_id": "3624866c9518e23b11ad41f01b065aef300be44c"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "b92969750eae3b58d44b485bfde88a5a11f667b0"
+        }
+      ]
+    },
+    "piano4.mp3": {
+      "file_name": "piano4.mp3",
+      "instrument": "piano",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3306,
+          "predict_time": 525,
+          "labels": [
+            {
+              "label": "piano",
+              "max_perc": 0.7248859405517578,
+              "average": 0.5426072597503662,
+              "min_perc": 0.34318917989730835,
+              "repeats": 10,
+              "label_id": "f3b9e914697bca3de47db452b83b3a5eead85caf"
+            },
+            {
+              "label": "violin",
+              "max_perc": 0.4111706614494324,
+              "average": 0.3511785566806793,
+              "min_perc": 0.3170270323753357,
+              "repeats": 3,
+              "label_id": "ff9254fb34c2a15d6473d4f91976c935b2830fea"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "4bc27e7bf092b0f2805b403a130d7056c25dce7e"
+        }
+      ]
+    },
+    "sitar0.mp3": {
+      "file_name": "sitar0.mp3",
+      "instrument": "sitar",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3297,
+          "predict_time": 532,
+          "labels": [
+            {
+              "label": "sitar",
+              "max_perc": 0.963927149772644,
+              "average": 0.8646350085735321,
+              "min_perc": 0.5277336239814758,
+              "repeats": 10,
+              "label_id": "d2aa8a6aa204f606de3a494fa4f14158475cc5d0"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "9b485e1953dff0fb801a4ea187bf7761a92128fe"
+        }
+      ]
+    },
+    "sitar1.mp3": {
+      "file_name": "sitar1.mp3",
+      "instrument": "sitar",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3339,
+          "predict_time": 541,
+          "labels": [
+            {
+              "label": "sitar",
+              "max_perc": 0.8914459943771362,
+              "average": 0.8307985994550917,
+              "min_perc": 0.6709988713264465,
+              "repeats": 9,
+              "label_id": "4ecbd83d9857cad0b52f285fb8b47fdd6d883f76"
+            },
+            {
+              "label": "guitar",
+              "max_perc": 0.46232926845550537,
+              "average": 0.3998801112174988,
+              "min_perc": 0.3598652482032776,
+              "repeats": 3,
+              "label_id": "d5d4be0a4e4ce17cdd12457365045940a5594651"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "a38dc7a90e823e4d70e26ac81c5ae03ed4b2c220"
+        }
+      ]
+    },
+    "sitar2.mp3": {
+      "file_name": "sitar2.mp3",
+      "instrument": "sitar",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3330,
+          "predict_time": 531,
+          "labels": [
+            {
+              "label": "sitar",
+              "max_perc": 0.9303911924362183,
+              "average": 0.8598808288574219,
+              "min_perc": 0.7339838743209839,
+              "repeats": 10,
+              "label_id": "24abfcda025a05e2d8acedffff88a13d850ba27e"
+            },
+            {
+              "label": "guitar",
+              "max_perc": 0.31172841787338257,
+              "average": 0.31172841787338257,
+              "min_perc": 0.31172841787338257,
+              "repeats": 1,
+              "label_id": "f7d6d228e4c534d7c7fb5b5a954930aa3af77da0"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "53c0cd2586acc7d73eeadce9c78228003c3f7766"
+        }
+      ]
+    },
+    "sitar3.mp3": {
+      "file_name": "sitar3.mp3",
+      "instrument": "sitar",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3257,
+          "predict_time": 540,
+          "labels": [
+            {
+              "label": "violin",
+              "max_perc": 0.42488721013069153,
+              "average": 0.3837035447359085,
+              "min_perc": 0.3425198793411255,
+              "repeats": 2,
+              "label_id": "b2328ec71cf9b4deded0f4a755f876c50c344ddc"
+            },
+            {
+              "label": "guitar",
+              "max_perc": 0.3963308334350586,
+              "average": 0.3635566532611847,
+              "min_perc": 0.30588993430137634,
+              "repeats": 3,
+              "label_id": "257e2aac50521178a31464f19dec84b8b63895c9"
+            },
+            {
+              "label": "sitar",
+              "max_perc": 0.6124572157859802,
+              "average": 0.4988265931606293,
+              "min_perc": 0.34259456396102905,
+              "repeats": 4,
+              "label_id": "167a0cffeee5f0af3dc947c928b9df670b45db4b"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "03084dd6bd831d3580ab2d1f87b88e07a6e43055"
+        }
+      ]
+    },
+    "sitar4.mp3": {
+      "file_name": "sitar4.mp3",
+      "instrument": "sitar",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3290,
+          "predict_time": 561,
+          "labels": [
+            {
+              "label": "piano",
+              "max_perc": 0.40045446157455444,
+              "average": 0.40045446157455444,
+              "min_perc": 0.40045446157455444,
+              "repeats": 1,
+              "label_id": "00e6b9d06031421f0f5c281913f47dbf555a2201"
+            },
+            {
+              "label": "guitar",
+              "max_perc": 0.33766353130340576,
+              "average": 0.3225238521893819,
+              "min_perc": 0.3011710047721863,
+              "repeats": 3,
+              "label_id": "207554b60ff6e1deb6d93a20960fb5814da72890"
+            },
+            {
+              "label": "sitar",
+              "max_perc": 0.5237888693809509,
+              "average": 0.43156522512435913,
+              "min_perc": 0.33934158086776733,
+              "repeats": 2,
+              "label_id": "6fe23f753cca7967ac7cacb24ee34dcdacad4fcc"
+            },
+            {
+              "label": "violin",
+              "max_perc": 0.36961105465888977,
+              "average": 0.3573192358016968,
+              "min_perc": 0.3450274169445038,
+              "repeats": 2,
+              "label_id": "ac7db14a17913afd4732636fa28c02de3e39b613"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "e6fdfd82d8fe327f770acc0879205e0ccadcb466"
+        }
+      ]
+    },
+    "violin0.mp3": {
+      "file_name": "violin0.mp3",
+      "instrument": "violin",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3295,
+          "predict_time": 521,
+          "labels": [
+            {
+              "label": "violin",
+              "max_perc": 0.8957302570343018,
+              "average": 0.8067782282829284,
+              "min_perc": 0.6724405884742737,
+              "repeats": 10,
+              "label_id": "d346e2441f0ac78601d5a54de39107d75fbe6491"
+            },
+            {
+              "label": "cello",
+              "max_perc": 0.6603959202766418,
+              "average": 0.5110254287719727,
+              "min_perc": 0.3568180203437805,
+              "repeats": 3,
+              "label_id": "4e6aa026789c2bd516c0e11591b7b29b28e7dd0d"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "fae97dde81f03ef7e939a75cbfed4b9e38b90380"
+        }
+      ]
+    },
+    "violin1.mp3": {
+      "file_name": "violin1.mp3",
+      "instrument": "violin",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3349,
+          "predict_time": 523,
+          "labels": [
+            {
+              "label": "violin",
+              "max_perc": 0.9205986857414246,
+              "average": 0.8324222922325134,
+              "min_perc": 0.6679862141609192,
+              "repeats": 10,
+              "label_id": "5750c2e1e432e084b7569db87eaf42d1e0da61d3"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "eab707e183df84322fcee7055e9a8e09836c037e"
+        }
+      ]
+    },
+    "violin2.mp3": {
+      "file_name": "violin2.mp3",
+      "instrument": "violin",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3343,
+          "predict_time": 519,
+          "labels": [
+            {
+              "label": "violin",
+              "max_perc": 0.8028635382652283,
+              "average": 0.7028950870037078,
+              "min_perc": 0.4705786108970642,
+              "repeats": 10,
+              "label_id": "4353517e3c9efcda75e03bdb41b4b5c52db5c66c"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "b465c0945576c617db816d5fb4b256e2f9f5fb18"
+        }
+      ]
+    },
+    "violin3.mp3": {
+      "file_name": "violin3.mp3",
+      "instrument": "violin",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3920,
+          "predict_time": 590,
+          "labels": [
+            {
+              "label": "violin",
+              "max_perc": 0.8070648908615112,
+              "average": 0.699684488773346,
+              "min_perc": 0.6151086091995239,
+              "repeats": 10,
+              "label_id": "7e26b2a77ecae57bea73f4c6d769244ff382dde4"
+            },
+            {
+              "label": "harpsichord",
+              "max_perc": 0.3428489565849304,
+              "average": 0.3428489565849304,
+              "min_perc": 0.3428489565849304,
+              "repeats": 1,
+              "label_id": "475eb7bc551a9f6d647ea6b837070e17ba892b33"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "a4e9cd92bdfbad120a467c0d5c02b3ba586e6787"
+        }
+      ]
+    },
+    "violin4.mp3": {
+      "file_name": "violin4.mp3",
+      "instrument": "violin",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3424,
+          "predict_time": 549,
+          "labels": [
+            {
+              "label": "violin",
+              "max_perc": 0.8316208720207214,
+              "average": 0.7269867181777954,
+              "min_perc": 0.5394877791404724,
+              "repeats": 10,
+              "label_id": "660686c1f8f115db63b137ba24cca57783d65686"
+            },
+            {
+              "label": "cello",
+              "max_perc": 0.919146716594696,
+              "average": 0.7907780051231384,
+              "min_perc": 0.6263788342475891,
+              "repeats": 10,
+              "label_id": "f3922752ab410b00622904b3234da851caab70f4"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "200b1a1dc5c633fa2cb68a713487e098d78b90ed"
+        }
+      ]
+    },
+    "voice0.mp3": {
+      "file_name": "voice0.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3380,
+          "predict_time": 520,
+          "labels": [
+            {
+              "label": "male",
+              "max_perc": 0.4900938868522644,
+              "average": 0.4117377357823508,
+              "min_perc": 0.33193135261535645,
+              "repeats": 7,
+              "label_id": "fd949f858e259e77ed10ed8b7c5c3880e6fae53e"
+            },
+            {
+              "label": "choir",
+              "max_perc": 0.3356117904186249,
+              "average": 0.3356117904186249,
+              "min_perc": 0.3356117904186249,
+              "repeats": 1,
+              "label_id": "58711c7fd9e1fc5587f6f49e626bb059e74bd2a8"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "4d6fa84dfbceeb3dab5b7e4089bc2c228af32bfa"
+        }
+      ]
+    },
+    "voice1.mp3": {
+      "file_name": "voice1.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3410,
+          "predict_time": 519,
+          "labels": [
+            {
+              "label": "vocal",
+              "max_perc": 0.4093514382839203,
+              "average": 0.36719634797837997,
+              "min_perc": 0.3154623508453369,
+              "repeats": 9,
+              "label_id": "8aaa47ea2c4e647b4bb82d1504b2246c235c1234"
+            },
+            {
+              "label": "female",
+              "max_perc": 0.4563169479370117,
+              "average": 0.38404354080557823,
+              "min_perc": 0.3447982370853424,
+              "repeats": 8,
+              "label_id": "0ca59d6f02b61f12e673478b3001d2fc7a268b8e"
+            },
+            {
+              "label": "choir",
+              "max_perc": 0.4982348680496216,
+              "average": 0.43293464183807373,
+              "min_perc": 0.33494359254837036,
+              "repeats": 3,
+              "label_id": "8658c2a43b144a76b98215a90f88f4d34efce43f"
+            },
+            {
+              "label": "singing",
+              "max_perc": 0.3103441894054413,
+              "average": 0.304833581050237,
+              "min_perc": 0.30065667629241943,
+              "repeats": 3,
+              "label_id": "11a1763b5935a53d5348fbde0a9f52121589153f"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "582ed7cd27e9fd9ba01f66678e898ac34651e5dd"
+        }
+      ]
+    },
+    "voice2.mp3": {
+      "file_name": "voice2.mp3",
+      "instrument": "voice",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3363,
+          "predict_time": 526,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.5109899640083313,
+              "average": 0.4748346358537674,
+              "min_perc": 0.4386793076992035,
+              "repeats": 2,
+              "label_id": "9c2a45d362c9abbb856a84dfae3edf89dd373c46"
+            },
+            {
+              "label": "female",
+              "max_perc": 0.7128676176071167,
+              "average": 0.5608638852834702,
+              "min_perc": 0.33291780948638916,
+              "repeats": 10,
+              "label_id": "4291bfbf9459e2485358338c624f2bee5aeb6b0e"
+            },
+            {
+              "label": "woman",
+              "max_perc": 0.5830763578414917,
+              "average": 0.46457919147279525,
+              "min_perc": 0.36037158966064453,
+              "repeats": 9,
+              "label_id": "d295d66d5dc2978a2feaa85172afedd644d17d44"
+            },
+            {
+              "label": "vocal",
+              "max_perc": 0.36822548508644104,
+              "average": 0.36822548508644104,
+              "min_perc": 0.36822548508644104,
+              "repeats": 1,
+              "label_id": "a87a9a8818e04b419d645e9b8b2ff90b7f62fb02"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "7bae968fe692ac4f5506b22beb3d8ce536b753f3"
+        }
+      ]
+    },
+    "voice3.mp3": {
+      "file_name": "voice3.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3365,
+          "predict_time": 534,
+          "labels": [
+            {
+              "label": "vocal",
+              "max_perc": 0.4956263303756714,
+              "average": 0.40908797085285187,
+              "min_perc": 0.31131595373153687,
+              "repeats": 6,
+              "label_id": "0d4779020065659ea70b7ad01851f340d7ee1531"
+            },
+            {
+              "label": "female",
+              "max_perc": 0.6195088624954224,
+              "average": 0.5032747536897659,
+              "min_perc": 0.41456466913223267,
+              "repeats": 8,
+              "label_id": "d991f336cb7f92cae31b6715c889467b655cfdd4"
+            },
+            {
+              "label": "singing",
+              "max_perc": 0.3780684471130371,
+              "average": 0.3549586534500122,
+              "min_perc": 0.3455103635787964,
+              "repeats": 4,
+              "label_id": "5fc03ad774b33a6910cc40eadf44e1d25b9263ad"
+            },
+            {
+              "label": "vocals",
+              "max_perc": 0.3165111541748047,
+              "average": 0.3165111541748047,
+              "min_perc": 0.3165111541748047,
+              "repeats": 1,
+              "label_id": "9bbc1392d7996b727115a5b5a331c9b335ed1221"
+            },
+            {
+              "label": "woman",
+              "max_perc": 0.39557603001594543,
+              "average": 0.34526402354240415,
+              "min_perc": 0.30035293102264404,
+              "repeats": 5,
+              "label_id": "2b57b5337c0278fa3a4de8a23b78d446d9fd8f92"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "97d5c6fecbdbf1f52df94b90d58995c15308879f"
+        }
+      ]
+    },
+    "voice4.mp3": {
+      "file_name": "voice4.mp3",
+      "instrument": "voice",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3449,
+          "predict_time": 548,
+          "labels": [
+            {
+              "label": "violin",
+              "max_perc": 0.5777355432510376,
+              "average": 0.4471147954463959,
+              "min_perc": 0.359404981136322,
+              "repeats": 6,
+              "label_id": "9df3283ff06c86dd76e1cca3ace5ad3765f74091"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.3,
+          "predict_id": "e2ea54be5c7ff8dda0a431e8ca1b038964571511"
+        }
+      ]
+    }
+  }

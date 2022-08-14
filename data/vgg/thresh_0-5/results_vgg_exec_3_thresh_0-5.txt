@@ -1,0 +1,376 @@
+cello0.mp3
+sumExtractTime 3455
+sumPredictTime 436
+execs 3
+accuracy 0.5
+ 
+cello1.mp3
+sumExtractTime 3307
+sumPredictTime 266.6666666666667
+execs 3
+accuracy 0.5
+ 
+cello2.mp3
+sumExtractTime 3333
+sumPredictTime 266
+execs 3
+accuracy 0
+ 
+cello3.mp3
+sumExtractTime 3291.6666666666665
+sumPredictTime 273.3333333333333
+execs 3
+accuracy 0.5
+ 
+cello4.mp3
+sumExtractTime 3378.6666666666665
+sumPredictTime 274.6666666666667
+execs 3
+accuracy 0.5
+ 
+ 
+ Group:  cello
+averageExtractTime 3353.0666666666666
+averagePredictTime 303.33333333333337
+averageAccuracy 0.4
+numInstFiles 5
+ 
+drums0.mp3
+sumExtractTime 3350
+sumPredictTime 265.3333333333333
+execs 3
+accuracy 1
+ 
+drums1.mp3
+sumExtractTime 3345.3333333333335
+sumPredictTime 267.3333333333333
+execs 3
+accuracy 1
+ 
+drums2.mp3
+sumExtractTime 3297
+sumPredictTime 259.6666666666667
+execs 3
+accuracy 1
+ 
+drums3.mp3
+sumExtractTime 3424.6666666666665
+sumPredictTime 262.3333333333333
+execs 3
+accuracy 1
+ 
+drums4.mp3
+sumExtractTime 3389
+sumPredictTime 281.6666666666667
+execs 3
+accuracy 1
+ 
+ 
+ Group:  drums
+averageExtractTime 3361.2
+averagePredictTime 267.26666666666665
+averageAccuracy 1
+numInstFiles 5
+ 
+flute0.mp3
+sumExtractTime 3338.6666666666665
+sumPredictTime 272.6666666666667
+execs 3
+accuracy 1
+ 
+flute1.mp3
+sumExtractTime 3333.6666666666665
+sumPredictTime 272.6666666666667
+execs 3
+accuracy 1
+ 
+flute2.mp3
+sumExtractTime 3359.6666666666665
+sumPredictTime 256.3333333333333
+execs 3
+accuracy 1
+ 
+flute3.mp3
+sumExtractTime 3391.6666666666665
+sumPredictTime 263.6666666666667
+execs 3
+accuracy 1
+ 
+flute4.mp3
+sumExtractTime 3495.6666666666665
+sumPredictTime 283.6666666666667
+execs 3
+accuracy 1
+ 
+ 
+ Group:  flute
+averageExtractTime 3383.8666666666663
+averagePredictTime 269.80000000000007
+averageAccuracy 1
+numInstFiles 5
+ 
+guitar0.mp3
+sumExtractTime 3386.6666666666665
+sumPredictTime 300
+execs 3
+accuracy 1
+ 
+guitar1.mp3
+sumExtractTime 3346.3333333333335
+sumPredictTime 281
+execs 3
+accuracy 1
+ 
+guitar2.mp3
+sumExtractTime 3360.3333333333335
+sumPredictTime 277.3333333333333
+execs 3
+accuracy 1
+ 
+guitar3.mp3
+sumExtractTime 3348.6666666666665
+sumPredictTime 286.6666666666667
+execs 3
+accuracy 1
+ 
+guitar4.mp3
+sumExtractTime 3334
+sumPredictTime 262.3333333333333
+execs 3
+accuracy 1
+ 
+ 
+ Group:  guitar
+averageExtractTime 3355.2
+averagePredictTime 281.46666666666664
+averageAccuracy 1
+numInstFiles 5
+ 
+harp0.mp3
+sumExtractTime 3321.6666666666665
+sumPredictTime 281.6666666666667
+execs 3
+accuracy 0.5
+ 
+harp1.mp3
+sumExtractTime 3323.3333333333335
+sumPredictTime 264.3333333333333
+execs 3
+accuracy 0
+ 
+harp2.mp3
+sumExtractTime 3319.3333333333335
+sumPredictTime 277.3333333333333
+execs 3
+accuracy 0.3333333333333333
+ 
+harp3.mp3
+sumExtractTime 3324
+sumPredictTime 267.6666666666667
+execs 3
+accuracy 0.5
+ 
+harp4.mp3
+sumExtractTime 3364.6666666666665
+sumPredictTime 268
+execs 3
+accuracy 0
+ 
+ 
+ Group:  harp
+averageExtractTime 3330.6
+averagePredictTime 271.8
+averageAccuracy 0.26666666666666666
+numInstFiles 5
+ 
+harpsichord0.mp3
+sumExtractTime 3390.3333333333335
+sumPredictTime 282.6666666666667
+execs 3
+accuracy 1
+ 
+harpsichord1.mp3
+sumExtractTime 3378.3333333333335
+sumPredictTime 259.6666666666667
+execs 3
+accuracy 1
+ 
+harpsichord2.mp3
+sumExtractTime 3348.6666666666665
+sumPredictTime 261.3333333333333
+execs 3
+accuracy 1
+ 
+harpsichord3.mp3
+sumExtractTime 3351.3333333333335
+sumPredictTime 268.6666666666667
+execs 3
+accuracy 1
+ 
+harpsichord4.mp3
+sumExtractTime 3351.3333333333335
+sumPredictTime 267
+execs 3
+accuracy 1
+ 
+ 
+ Group:  harpsichord
+averageExtractTime 3364
+averagePredictTime 267.8666666666667
+averageAccuracy 1
+numInstFiles 5
+ 
+piano0.mp3
+sumExtractTime 3303.6666666666665
+sumPredictTime 263
+execs 3
+accuracy 1
+ 
+piano1.mp3
+sumExtractTime 3330.6666666666665
+sumPredictTime 264.3333333333333
+execs 3
+accuracy 1
+ 
+piano2.mp3
+sumExtractTime 3357
+sumPredictTime 257.3333333333333
+execs 3
+accuracy 1
+ 
+piano3.mp3
+sumExtractTime 3365
+sumPredictTime 259.6666666666667
+execs 3
+accuracy 1
+ 
+piano4.mp3
+sumExtractTime 3433
+sumPredictTime 266
+execs 3
+accuracy 1
+ 
+ 
+ Group:  piano
+averageExtractTime 3357.8666666666663
+averagePredictTime 262.06666666666666
+averageAccuracy 1
+numInstFiles 5
+ 
+sitar0.mp3
+sumExtractTime 3347.3333333333335
+sumPredictTime 257.3333333333333
+execs 3
+accuracy 1
+ 
+sitar1.mp3
+sumExtractTime 3388.3333333333335
+sumPredictTime 266.3333333333333
+execs 3
+accuracy 1
+ 
+sitar2.mp3
+sumExtractTime 3568
+sumPredictTime 301
+execs 3
+accuracy 1
+ 
+sitar3.mp3
+sumExtractTime 3435.3333333333335
+sumPredictTime 277.3333333333333
+execs 3
+accuracy 1
+ 
+sitar4.mp3
+sumExtractTime 3425.3333333333335
+sumPredictTime 265.6666666666667
+execs 3
+accuracy 0
+ 
+ 
+ Group:  sitar
+averageExtractTime 3432.8666666666672
+averagePredictTime 273.53333333333336
+averageAccuracy 0.8
+numInstFiles 5
+ 
+violin0.mp3
+sumExtractTime 3361.6666666666665
+sumPredictTime 260.6666666666667
+execs 3
+accuracy 0.5
+ 
+violin1.mp3
+sumExtractTime 3355
+sumPredictTime 256.3333333333333
+execs 3
+accuracy 1
+ 
+violin2.mp3
+sumExtractTime 3313
+sumPredictTime 266
+execs 3
+accuracy 1
+ 
+violin3.mp3
+sumExtractTime 3341.3333333333335
+sumPredictTime 257.3333333333333
+execs 3
+accuracy 1
+ 
+violin4.mp3
+sumExtractTime 3326.3333333333335
+sumPredictTime 296.3333333333333
+execs 3
+accuracy 0.5
+ 
+ 
+ Group:  violin
+averageExtractTime 3339.4666666666662
+averagePredictTime 267.3333333333333
+averageAccuracy 0.8
+numInstFiles 5
+ 
+voice0.mp3
+sumExtractTime 3278
+sumPredictTime 291
+execs 3
+accuracy 1
+ 
+voice1.mp3
+sumExtractTime 3506.6666666666665
+sumPredictTime 281.6666666666667
+execs 3
+accuracy 0
+ 
+voice2.mp3
+sumExtractTime 3452.6666666666665
+sumPredictTime 297
+execs 3
+accuracy 1
+ 
+voice3.mp3
+sumExtractTime 3347.3333333333335
+sumPredictTime 256
+execs 3
+accuracy 1
+ 
+voice4.mp3
+sumExtractTime 3441.3333333333335
+sumPredictTime 269
+execs 3
+accuracy 0
+ 
+ 
+ Group:  voice
+averageExtractTime 3405.2
+averagePredictTime 278.93333333333334
+averageAccuracy 0.6
+numInstFiles 5
+ 
+ 
+ Group:  TOTAL
+averageExtractTime 3368.333333333333
+averagePredictTime 274.3400000000001
+averageAccuracy 0.7866666666666666
+numInstFiles 50
