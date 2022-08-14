@@ -19,9 +19,9 @@ start = async () => {
 
         if (!currentFamily) {
             currentFamily = instrument_name
-            numInstFiles++
         } else {
-            if (currentFamily !== instrument_name) {
+            if (currentFamily !== instrument_name) {                  
+                numInstFiles++                
                 calculateAverages(currentFamily, averageExtractTime, averagePredictTime, averageAccuracy, numInstFiles)
                 currentFamily = instrument_name
                 numInstFiles = 0
@@ -55,9 +55,7 @@ start = async () => {
         // are the same for each execution
 
         if (execs[0].labels) {
-            // here? 
 
-            //console.log(instrument_name)
             let acc = 0
             //console.log(execs[0].labels)
             if (execs[0].labels.length === 1) {
