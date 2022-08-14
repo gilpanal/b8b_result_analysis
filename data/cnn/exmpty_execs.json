@@ -1,0 +1,302 @@
+{
+    "cello0.mp3": {
+      "file_name": "cello0.mp3",
+      "instrument": "cello",
+      "mixed": false,
+      "execs": []
+    },
+    "cello1.mp3": {
+      "file_name": "cello1.mp3",
+      "instrument": "cello",
+      "mixed": false,
+      "execs": []
+    },
+    "cello2.mp3": {
+      "file_name": "cello2.mp3",
+      "instrument": "cello",
+      "mixed": true,
+      "execs": []
+    },
+    "cello3.mp3": {
+      "file_name": "cello3.mp3",
+      "instrument": "cello",
+      "mixed": false,
+      "execs": []
+    },
+    "cello4.mp3": {
+      "file_name": "cello4.mp3",
+      "instrument": "cello",
+      "mixed": false,
+      "execs": []
+    },
+    "drums0.mp3": {
+      "file_name": "drums0.mp3",
+      "instrument": "drums",
+      "mixed": true,
+      "execs": []
+    },
+    "drums1.mp3": {
+      "file_name": "drums1.mp3",
+      "instrument": "drums",
+      "mixed": true,
+      "execs": []
+    },
+    "drums2.mp3": {
+      "file_name": "drums2.mp3",
+      "instrument": "drums",
+      "mixed": true,
+      "execs": []
+    },
+    "drums3.mp3": {
+      "file_name": "drums3.mp3",
+      "instrument": "drums",
+      "mixed": true,
+      "execs": []
+    },
+    "drums4.mp3": {
+      "file_name": "drums4.mp3",
+      "instrument": "drums",
+      "mixed": false,
+      "execs": []
+    },
+    "flute0.mp3": {
+      "file_name": "flute0.mp3",
+      "instrument": "flute",
+      "mixed": true,
+      "execs": []
+    },
+    "flute1.mp3": {
+      "file_name": "flute1.mp3",
+      "instrument": "flute",
+      "mixed": false,
+      "execs": []
+    },
+    "flute2.mp3": {
+      "file_name": "flute2.mp3",
+      "instrument": "flute",
+      "mixed": false,
+      "execs": []
+    },
+    "flute3.mp3": {
+      "file_name": "flute3.mp3",
+      "instrument": "flute",
+      "mixed": true,
+      "execs": []
+    },
+    "flute4.mp3": {
+      "file_name": "flute4.mp3",
+      "instrument": "flute",
+      "mixed": true,
+      "execs": []
+    },
+    "guitar0.mp3": {
+      "file_name": "guitar0.mp3",
+      "instrument": "guitar",
+      "mixed": false,
+      "execs": []
+    },
+    "guitar1.mp3": {
+      "file_name": "guitar1.mp3",
+      "instrument": "guitar",
+      "mixed": false,
+      "execs": []
+    },
+    "guitar2.mp3": {
+      "file_name": "guitar2.mp3",
+      "instrument": "guitar",
+      "mixed": false,
+      "execs": []
+    },
+    "guitar3.mp3": {
+      "file_name": "guitar3.mp3",
+      "instrument": "guitar",
+      "mixed": false,
+      "execs": []
+    },
+    "guitar4.mp3": {
+      "file_name": "guitar4.mp3",
+      "instrument": "guitar",
+      "mixed": true,
+      "execs": []
+    },
+    "harp0.mp3": {
+      "file_name": "harp0.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": []
+    },
+    "harp1.mp3": {
+      "file_name": "harp1.mp3",
+      "instrument": "harp",
+      "mixed": true,
+      "execs": []
+    },
+    "harp2.mp3": {
+      "file_name": "harp2.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": []
+    },
+    "harp3.mp3": {
+      "file_name": "harp3.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": []
+    },
+    "harp4.mp3": {
+      "file_name": "harp4.mp3",
+      "instrument": "harp",
+      "mixed": true,
+      "execs": []
+    },
+    "harpsichord0.mp3": {
+      "file_name": "harpsichord0.mp3",
+      "instrument": "harpsichord",
+      "mixed": false,
+      "execs": []
+    },
+    "harpsichord1.mp3": {
+      "file_name": "harpsichord1.mp3",
+      "instrument": "harpsichord",
+      "mixed": false,
+      "execs": []
+    },
+    "harpsichord2.mp3": {
+      "file_name": "harpsichord2.mp3",
+      "instrument": "harpsichord",
+      "mixed": false,
+      "execs": []
+    },
+    "harpsichord3.mp3": {
+      "file_name": "harpsichord3.mp3",
+      "instrument": "harpsichord",
+      "mixed": false,
+      "execs": []
+    },
+    "harpsichord4.mp3": {
+      "file_name": "harpsichord4.mp3",
+      "instrument": "harpsichord",
+      "mixed": false,
+      "execs": [ ]
+    },
+    "piano0.mp3": {
+      "file_name": "piano0.mp3",
+      "instrument": "piano",
+      "mixed": false,
+      "execs": []
+    },
+    "piano1.mp3": {
+      "file_name": "piano1.mp3",
+      "instrument": "piano",
+      "mixed": false,
+      "execs": []
+    },
+    "piano2.mp3": {
+      "file_name": "piano2.mp3",
+      "instrument": "piano",
+      "mixed": false,
+      "execs": []
+    },
+    "piano3.mp3": {
+      "file_name": "piano3.mp3",
+      "instrument": "piano",
+      "mixed": false,
+      "execs": []
+    },
+    "piano4.mp3": {
+      "file_name": "piano4.mp3",
+      "instrument": "piano",
+      "mixed": true,
+      "execs": []
+    },
+    "sitar0.mp3": {
+      "file_name": "sitar0.mp3",
+      "instrument": "sitar",
+      "mixed": false,
+      "execs": []
+    },
+    "sitar1.mp3": {
+      "file_name": "sitar1.mp3",
+      "instrument": "sitar",
+      "mixed": false,
+      "execs": []
+    },
+    "sitar2.mp3": {
+      "file_name": "sitar2.mp3",
+      "instrument": "sitar",
+      "mixed": false,
+      "execs": []
+    },
+    "sitar3.mp3": {
+      "file_name": "sitar3.mp3",
+      "instrument": "sitar",
+      "mixed": false,
+      "execs": []
+    },
+    "sitar4.mp3": {
+      "file_name": "sitar4.mp3",
+      "instrument": "sitar",
+      "mixed": true,
+      "execs": []
+    },
+    "violin0.mp3": {
+      "file_name": "violin0.mp3",
+      "instrument": "violin",
+      "mixed": false,
+      "execs": []
+    },
+    "violin1.mp3": {
+      "file_name": "violin1.mp3",
+      "instrument": "violin",
+      "mixed": false,
+      "execs": []
+    },
+    "violin2.mp3": {
+      "file_name": "violin2.mp3",
+      "instrument": "violin",
+      "mixed": true,
+      "execs": []
+    },
+    "violin3.mp3": {
+      "file_name": "violin3.mp3",
+      "instrument": "violin",
+      "mixed": true,
+      "execs": []
+    },
+    "violin4.mp3": {
+      "file_name": "violin4.mp3",
+      "instrument": "violin",
+      "mixed": false,
+      "execs": []
+    },
+    "voice0.mp3": {
+      "file_name": "voice0.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": []
+    },
+    "voice1.mp3": {
+      "file_name": "voice1.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": []
+    },
+    "voice2.mp3": {
+      "file_name": "voice2.mp3",
+      "instrument": "voice",
+      "mixed": true,
+      "execs": []
+    },
+    "voice3.mp3": {
+      "file_name": "voice3.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": []
+    },
+    "voice4.mp3": {
+      "file_name": "voice4.mp3",
+      "instrument": "voice",
+      "mixed": true,
+      "execs": []
+    }
+  }

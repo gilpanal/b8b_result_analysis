@@ -1,12 +1,28 @@
 const fetch = require('node-fetch')
 const RESULTS_ENPOINT = 'http://localhost:3001/files'
 
+const voiceValidClasses = ['vocal', 'female', 'male', 'singing', 'vocals', 'woman', 'male vocal', 'man', 'choir', 'voice', 'male voice', 'female vocal', 'female voice', 'choral']
+
+filterAllByValue = (array, string) => {
+
+    return array.filter(o => { return o.label === string })
+}
+
+isThereAny = (array, string) => {
+
+    return array.find(o => { return o.label === string })
+}
+
+
 start = async () => {
     let fetchCurrentData = await fetch(RESULTS_ENPOINT)
     let jsonIs = await fetchCurrentData.json()
     const files = Object.keys(jsonIs)
     console.log(files)
-
+    console.log('', '')
+    let AverageTotalExtractTime = 0
+    let AverageTotalPredictTime = 0
+    let AverageTotalAccuracy = 0
     let averageExtractTime = 0
     let averagePredictTime = 0
     let averageAccuracy = 0
@@ -20,8 +36,8 @@ start = async () => {
         if (!currentFamily) {
             currentFamily = instrument_name
         } else {
-            if (currentFamily !== instrument_name) {                  
-                numInstFiles++                
+            if (currentFamily !== instrument_name) {
+                numInstFiles++
                 calculateAverages(currentFamily, averageExtractTime, averagePredictTime, averageAccuracy, numInstFiles)
                 currentFamily = instrument_name
                 numInstFiles = 0
@@ -50,6 +66,8 @@ start = async () => {
 
         averageExtractTime += sumExtractTime
         averagePredictTime += sumPredictTime
+        AverageTotalExtractTime += sumExtractTime
+        AverageTotalPredictTime += sumPredictTime
         // For Accuracy we don't need to check all
         // executions due all inferences (labels) 
         // are the same for each execution
@@ -57,7 +75,17 @@ start = async () => {
         if (execs[0].labels) {
 
             let acc = 0
-            //console.log(execs[0].labels)
+
+            if (instrument_name === 'voice') {
+
+                for (let numlabel in execs[0].labels) {
+                    const nameLabel = execs[0].labels[numlabel].label
+                    if (nameLabel !== 'voice' && voiceValidClasses.includes(nameLabel)) {                        
+                        execs[0].labels[numlabel].label = 'voice'
+                    }
+                }
+            }
+
             if (execs[0].labels.length === 1) {
                 // finds one class and sound is not mixed
                 if (execs[0].labels[0].label === instrument_name) {
@@ -65,31 +93,41 @@ start = async () => {
                 }
             } else if (!jsonIs[fileIs].mixed && execs[0].labels.length > 1) {
 
-                // only one instrument declared but more that one label is found
-                for (let instrum in execs[0].labels) {
-                    if (instrument_name === execs[0].labels[instrum].label) {
+                let num_voice_labels = null
+                if (instrument_name === 'voice') {
+                    num_voice_labels = filterAllByValue(execs[0].labels, 'voice')                    
+                    num_voice_labels = num_voice_labels ? num_voice_labels.length : null                    
+                }
 
-                        acc = 1 / execs[0].labels.length
-                    }
+                // only one instrument declared but more that one label is found
+                const labelFound = isThereAny(execs[0].labels, instrument_name)
+                if (labelFound) {
+                    // Example - In case sound not mixed and labels found are: voice (male), voice(choir) and guitar => acc = 1 / (voice + guitar)
+                    // If there are X number of voice related labels they all count as one
+                    const divides = num_voice_labels ? (execs[0].labels.length - num_voice_labels + 1) : execs[0].labels.length
+                    acc = 1 / divides
                 }
 
             } else if (jsonIs[fileIs].mixed && execs[0].labels.length > 1) {
-                for (let inst in execs[0].labels) {
-                    if (instrument_name === execs[0].labels[inst].label) {
-                        acc++
-                    }
+                const isLabelPresent = isThereAny(execs[0].labels, instrument_name)
+                if (isLabelPresent) {
+                    acc++
                 }
             }
 
             console.log('accuracy', acc)
             console.log('', '')
             averageAccuracy += acc
+            AverageTotalAccuracy += acc
         }
         if (i === files.length - 1) {
             numInstFiles++
             calculateAverages(currentFamily, averageExtractTime, averagePredictTime, averageAccuracy, numInstFiles)
         }
     }
+
+    calculateAverages('TOTAL', AverageTotalExtractTime, AverageTotalPredictTime, AverageTotalAccuracy, files.length)
+
 }
 
 calculateAverages = (currentFamily, averageExtractTime, averagePredictTime, averageAccuracy, numInstFiles) => {
@@ -99,7 +137,7 @@ calculateAverages = (currentFamily, averageExtractTime, averagePredictTime, aver
     averageAccuracy = averageAccuracy / numInstFiles
 
     console.log('', '')
-    console.log('currentFamily', currentFamily)
+    console.log('\x1b[33m Group: \x1b[0m', currentFamily)
     console.log('averageExtractTime', averageExtractTime)
     console.log('averagePredictTime', averagePredictTime)
     console.log('averageAccuracy', averageAccuracy)
