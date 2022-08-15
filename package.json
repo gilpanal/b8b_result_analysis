@@ -1,7 +1,7 @@
 {
-  "name": "api-server-results",
+  "name": "b8b_result_analysis",
   "version": "1.0.0",
-  "description": "A lightweight starter kit for building a Node-based API server",
+  "description": "Tool to analyse results from B8B synapse",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bpk68/api-server-starter.git"
+    "url": "git+https://github.com/gilpanal/b8b_result_analysis.git"
   },
   "keywords": [
     "api",
@@ -18,14 +18,15 @@
     "api-server",
     "express",
     "starter",
+    "b8b_synapse",
     "kit"
   ],
   "author": "Rob Kendal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bpk68/api-server-starter/issues"
+    "url": "https://github.com/gilpanal/b8b_result_analysis/issues"
   },
-  "homepage": "https://github.com/bpk68/api-server-starter#readme",
+  "homepage": "https://github.com/gilpanal/b8b_result_analysis#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
