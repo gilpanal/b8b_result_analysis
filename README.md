@@ -2,9 +2,9 @@
 
 This repository is part of the Beat Byte Bot Ecosystem (B8B).
 
-B8B Result Analysis: https://github.com/gilpanal/b8b_result_analysis
-B8B Virtuoso: https://github.com/gilpanal/b8b_virtuoso
-B8B Synapse: https://github.com/gilpanal/b8b_synapse
+- B8B Result Analysis: https://github.com/gilpanal/b8b_result_analysis
+- B8B Virtuoso: https://github.com/gilpanal/b8b_virtuoso
+- B8B Synapse: https://github.com/gilpanal/b8b_synapse
 
 The code is based and adapted from https://github.com/bpk68/api-server-starter
 
