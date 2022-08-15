@@ -25,7 +25,7 @@ The deep learning models used are TensorFlow models available in Essentia for va
 4. Replace the content in `data/files.json` with one from the JSONs in folders `cnn`, `vgg` or `harp`
 5. Start the main server by typing ```npm start```
 6. Verify the content is served correctly at: http://localhost:3001/files
-7. Run the analyse command: ```npm run analyse```
+7. Run the analyse command in a new terminal: ```npm run analyse```
 
 
 
