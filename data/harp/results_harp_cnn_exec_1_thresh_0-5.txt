@@ -1,0 +1,313 @@
+harp0.mp3
+sumExtractTime 3372
+sumPredictTime 910
+execs 1
+accuracy 0.5
+ 
+harp1.mp3
+sumExtractTime 3253
+sumPredictTime 601
+execs 1
+accuracy 0
+ 
+harp2.mp3
+sumExtractTime 3299
+sumPredictTime 560
+execs 1
+accuracy 0.5
+ 
+harp3.mp3
+sumExtractTime 3428
+sumPredictTime 609
+execs 1
+accuracy 0.5
+ 
+harp4.mp3
+sumExtractTime 3380
+sumPredictTime 550
+execs 1
+accuracy 0.5
+ 
+harp5.mp3
+sumExtractTime 3428
+sumPredictTime 543
+execs 1
+accuracy 0.5
+ 
+harp6.mp3
+sumExtractTime 3355
+sumPredictTime 588
+execs 1
+accuracy 0.5
+ 
+harp7.mp3
+sumExtractTime 3428
+sumPredictTime 696
+execs 1
+accuracy 0.5
+ 
+harp8.mp3
+sumExtractTime 3492
+sumPredictTime 564
+execs 1
+accuracy 0.5
+ 
+harp9.mp3
+sumExtractTime 3470
+sumPredictTime 551
+execs 1
+accuracy 0
+ 
+harp10.mp3
+sumExtractTime 3467
+sumPredictTime 563
+execs 1
+accuracy 0
+ 
+harp11.mp3
+sumExtractTime 3436
+sumPredictTime 530
+execs 1
+accuracy 0
+ 
+harp12.mp3
+sumExtractTime 3431
+sumPredictTime 541
+execs 1
+accuracy 0
+ 
+harp13.mp3
+sumExtractTime 3457
+sumPredictTime 529
+execs 1
+accuracy 1
+ 
+harp14.mp3
+sumExtractTime 3455
+sumPredictTime 539
+execs 1
+accuracy 0
+ 
+harp15.mp3
+sumExtractTime 3406
+sumPredictTime 526
+execs 1
+accuracy 1
+ 
+harp16.mp3
+sumExtractTime 3424
+sumPredictTime 529
+execs 1
+accuracy 1
+ 
+harp17.mp3
+sumExtractTime 3539
+sumPredictTime 525
+execs 1
+accuracy 0.5
+ 
+harp18.mp3
+sumExtractTime 3430
+sumPredictTime 526
+execs 1
+accuracy 0
+ 
+harp19.mp3
+sumExtractTime 3398
+sumPredictTime 536
+execs 1
+accuracy 0.5
+ 
+harp20.mp3
+sumExtractTime 3424
+sumPredictTime 537
+execs 1
+accuracy 0.5
+ 
+harp21.mp3
+sumExtractTime 3413
+sumPredictTime 658
+execs 1
+accuracy 0
+ 
+harp22.mp3
+sumExtractTime 3373
+sumPredictTime 535
+execs 1
+accuracy 0.5
+ 
+harp23.mp3
+sumExtractTime 3399
+sumPredictTime 525
+execs 1
+accuracy 0
+ 
+harp24.mp3
+sumExtractTime 3410
+sumPredictTime 568
+execs 1
+accuracy 0.5
+ 
+harp25.mp3
+sumExtractTime 3576
+sumPredictTime 542
+execs 1
+accuracy 0
+ 
+harp26.mp3
+sumExtractTime 3394
+sumPredictTime 527
+execs 1
+accuracy 0
+ 
+harp27.mp3
+sumExtractTime 3517
+sumPredictTime 589
+execs 1
+accuracy 0.5
+ 
+harp28.mp3
+sumExtractTime 3414
+sumPredictTime 531
+execs 1
+accuracy 1
+ 
+harp29.mp3
+sumExtractTime 3328
+sumPredictTime 524
+execs 1
+accuracy 0
+ 
+harp30.mp3
+sumExtractTime 3290
+sumPredictTime 531
+execs 1
+accuracy 0.5
+ 
+harp31.mp3
+sumExtractTime 3404
+sumPredictTime 574
+execs 1
+accuracy 0
+ 
+harp32.mp3
+sumExtractTime 3281
+sumPredictTime 595
+execs 1
+accuracy 0.5
+ 
+harp33.mp3
+sumExtractTime 3385
+sumPredictTime 540
+execs 1
+accuracy 0
+ 
+harp34.mp3
+sumExtractTime 3408
+sumPredictTime 548
+execs 1
+accuracy 0
+ 
+harp35.mp3
+sumExtractTime 3563
+sumPredictTime 590
+execs 1
+accuracy 0
+ 
+harp36.mp3
+sumExtractTime 3362
+sumPredictTime 532
+execs 1
+accuracy 0
+ 
+harp37.mp3
+sumExtractTime 3525
+sumPredictTime 562
+execs 1
+accuracy 0.5
+ 
+harp38.mp3
+sumExtractTime 3391
+sumPredictTime 525
+execs 1
+accuracy 0.5
+ 
+harp39.mp3
+sumExtractTime 3298
+sumPredictTime 557
+execs 1
+accuracy 0.5
+ 
+harp40.mp3
+sumExtractTime 3367
+sumPredictTime 547
+execs 1
+accuracy 0.5
+ 
+harp41.mp3
+sumExtractTime 3378
+sumPredictTime 611
+execs 1
+accuracy 0.5
+ 
+harp42.mp3
+sumExtractTime 3286
+sumPredictTime 532
+execs 1
+accuracy 0
+ 
+harp43.mp3
+sumExtractTime 3419
+sumPredictTime 593
+execs 1
+accuracy 0
+ 
+harp44.mp3
+sumExtractTime 3353
+sumPredictTime 546
+execs 1
+accuracy 0
+ 
+harp45.mp3
+sumExtractTime 3393
+sumPredictTime 524
+execs 1
+accuracy 0.5
+ 
+harp46.mp3
+sumExtractTime 3297
+sumPredictTime 544
+execs 1
+accuracy 0.5
+ 
+harp47.mp3
+sumExtractTime 3363
+sumPredictTime 612
+execs 1
+accuracy 0
+ 
+harp48.mp3
+sumExtractTime 3381
+sumPredictTime 544
+execs 1
+accuracy 0
+ 
+harp49.mp3
+sumExtractTime 3430
+sumPredictTime 542
+execs 1
+accuracy 0
+ 
+ 
+ Group:  harp
+averageExtractTime 3403.4
+averagePredictTime 564.02
+averageAccuracy 0.31
+numInstFiles 50
+ 
+ 
+ Group:  TOTAL
+averageExtractTime 3403.4
+averagePredictTime 564.02
+averageAccuracy 0.31
+numInstFiles 50

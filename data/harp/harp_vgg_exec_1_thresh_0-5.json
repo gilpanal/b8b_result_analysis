@@ -1,0 +1,1530 @@
+{
+    "harp0.mp3": {
+      "file_name": "harp0.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3527,
+          "predict_time": 392,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.6927816271781921,
+              "average": 0.6168849799368117,
+              "min_perc": 0.5187284350395203,
+              "repeats": 9,
+              "label_id": "cca3ea3a50a36cacaaab4bfeb8293e1ad7a34ffa"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.5006090402603149,
+              "average": 0.5006090402603149,
+              "min_perc": 0.5006090402603149,
+              "repeats": 1,
+              "label_id": "13990c31b7be392006aa516a451edd4f1a2da005"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "b9d8f48b6a3777128c54e42114662db5571d5e6e"
+        }
+      ]
+    },
+    "harp1.mp3": {
+      "file_name": "harp1.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3388,
+          "predict_time": 305,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.7881628274917603,
+              "average": 0.6744265496730805,
+              "min_perc": 0.5937560796737671,
+              "repeats": 10,
+              "label_id": "e6f7d13faef3c976e1117eb0e5de942708f9bc36"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "6ddd30f6242933c68688e314eeb548f2f024c92d"
+        }
+      ]
+    },
+    "harp2.mp3": {
+      "file_name": "harp2.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3307,
+          "predict_time": 264,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.6735734939575195,
+              "average": 0.6277226448059082,
+              "min_perc": 0.5488264560699463,
+              "repeats": 10,
+              "label_id": "1bd8692c60e0a1ab6f218c2f57d5100148507e94"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.7040800452232361,
+              "average": 0.6141094714403152,
+              "min_perc": 0.5203168392181396,
+              "repeats": 4,
+              "label_id": "6347d8322a1df95ba76e7003550fc47b13fb6e96"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "83a948b4bd366944e09c5a85ba2defa2b8f243b7"
+        }
+      ]
+    },
+    "harp3.mp3": {
+      "file_name": "harp3.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3378,
+          "predict_time": 258,
+          "labels": [
+            {
+              "label": "harp",
+              "max_perc": 0.7688061594963074,
+              "average": 0.6310902237892151,
+              "min_perc": 0.516118586063385,
+              "repeats": 10,
+              "label_id": "7d93beb776426efdbff1cacefc4f6acd992996d3"
+            },
+            {
+              "label": "guitar",
+              "max_perc": 0.7832565903663635,
+              "average": 0.7039630293846131,
+              "min_perc": 0.6361576914787292,
+              "repeats": 5,
+              "label_id": "01cf816b6ba41f482b6e80d96cd3be15af8c37ea"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "dbfbe37bf5ee4cf21fee41eaa27ab3398e720af5"
+        }
+      ]
+    },
+    "harp4.mp3": {
+      "file_name": "harp4.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3392,
+          "predict_time": 304,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.7082189321517944,
+              "average": 0.6047807534535726,
+              "min_perc": 0.5413500070571899,
+              "repeats": 3,
+              "label_id": "0531b815017f3ea84c02ebc056d71779a13f81f6"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.7629725933074951,
+              "average": 0.6710027992725373,
+              "min_perc": 0.6109427213668823,
+              "repeats": 10,
+              "label_id": "3c3feb355ef7913158ce0258d245b0a09a7089fe"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "d1f8a07e9902100d6877f3a0b9c6143bb691762f"
+        }
+      ]
+    },
+    "harp5.mp3": {
+      "file_name": "harp5.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3389,
+          "predict_time": 262,
+          "labels": [
+            {
+              "label": "harp",
+              "max_perc": 0.7629578113555908,
+              "average": 0.6695668995380402,
+              "min_perc": 0.6052033305168152,
+              "repeats": 4,
+              "label_id": "acb5199d3e7af37cc5a1be31335b4bf7c67d16d2"
+            },
+            {
+              "label": "guitar",
+              "max_perc": 0.8161785006523132,
+              "average": 0.698246161142985,
+              "min_perc": 0.5329561829566956,
+              "repeats": 6,
+              "label_id": "86c1bef51230e3f3ce885af356a35c52f73f16bb"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "72b41f5a53f896de7f5def113d6d4be7887a4ff6"
+        }
+      ]
+    },
+    "harp6.mp3": {
+      "file_name": "harp6.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3431,
+          "predict_time": 261,
+          "labels": [
+            {
+              "label": "harp",
+              "max_perc": 0.7616189122200012,
+              "average": 0.6184945479035378,
+              "min_perc": 0.517103910446167,
+              "repeats": 8,
+              "label_id": "54f1aee513caaf152c7ca9b91e25f4cf639ff22c"
+            },
+            {
+              "label": "guitar",
+              "max_perc": 0.8264912366867065,
+              "average": 0.7211185991764069,
+              "min_perc": 0.5603164434432983,
+              "repeats": 6,
+              "label_id": "86b712712737c8f50fe7016e68e06bafad6f977c"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "79dd6fc87ad86b098abb8020dcfff6598e8a887a"
+        }
+      ]
+    },
+    "harp7.mp3": {
+      "file_name": "harp7.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3434,
+          "predict_time": 262,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.7878139019012451,
+              "average": 0.6292655401759677,
+              "min_perc": 0.51462322473526,
+              "repeats": 9,
+              "label_id": "1dd0aa125bf3760bc006c9e68b1d4ac9910aa589"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.7404154539108276,
+              "average": 0.6385147472222646,
+              "min_perc": 0.5435965657234192,
+              "repeats": 6,
+              "label_id": "8173ff86d990d675ee8e116fa4f1598acc248094"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "198cf65b19017568e7c0c9619a902ed84c7d13d0"
+        }
+      ]
+    },
+    "harp8.mp3": {
+      "file_name": "harp8.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3466,
+          "predict_time": 269,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.8490739464759827,
+              "average": 0.7079315304756164,
+              "min_perc": 0.592151403427124,
+              "repeats": 5,
+              "label_id": "4755a42d3bf6583a3f757be23ce99676b24487da"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.7650092840194702,
+              "average": 0.6374280197279794,
+              "min_perc": 0.5038773417472839,
+              "repeats": 7,
+              "label_id": "9bdcb68c24b08262995db9bae55ea4d7c12c2a97"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "fca3219bc502a49f6b94feb6555796f4ebc4183d"
+        }
+      ]
+    },
+    "harp9.mp3": {
+      "file_name": "harp9.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3531,
+          "predict_time": 262,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.7999066710472107,
+              "average": 0.6821454564730326,
+              "min_perc": 0.6105661392211914,
+              "repeats": 9,
+              "label_id": "fa06a56d7c1e01871bebc5fd0852a9ae242393d5"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "54dc4a26c5180f6ad049c980a0cf60f9af476a29"
+        }
+      ]
+    },
+    "harp10.mp3": {
+      "file_name": "harp10.mp3",
+      "instrument": "harp",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3419,
+          "predict_time": 292,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.6785162687301636,
+              "average": 0.5881775766611099,
+              "min_perc": 0.5163201689720154,
+              "repeats": 4,
+              "label_id": "6038e77401e07e45312e217a3f603292e8d7f58d"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "fa1758199034bfdfa4e196764535e5e70ef41c97"
+        }
+      ]
+    },
+    "harp11.mp3": {
+      "file_name": "harp11.mp3",
+      "instrument": "harp",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3372,
+          "predict_time": 255,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.8185065984725952,
+              "average": 0.7916240692138672,
+              "min_perc": 0.7647415399551392,
+              "repeats": 2,
+              "label_id": "17ec0e575b380a5dba1e1373e5cac5980645fa4f"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "85b8454317f5ecc475ff11f964b2d263bb5bed94"
+        }
+      ]
+    },
+    "harp12.mp3": {
+      "file_name": "harp12.mp3",
+      "instrument": "harp",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3440,
+          "predict_time": 256,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.6311185359954834,
+              "average": 0.5797644754250845,
+              "min_perc": 0.5013152360916138,
+              "repeats": 6,
+              "label_id": "6df84827b2644b9c71d7bb4b527e8071046939f9"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "859011354d3c56b3e3c7837db56d547f1e363cbd"
+        }
+      ]
+    },
+    "harp13.mp3": {
+      "file_name": "harp13.mp3",
+      "instrument": "harp",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3407,
+          "predict_time": 262,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.6545212864875793,
+              "average": 0.571541890501976,
+              "min_perc": 0.5273299813270569,
+              "repeats": 4,
+              "label_id": "572db26542b4a018609abd7258d92ded0795d863"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "4af1179342716c71c729635c0d591c7d4ef1fbcd"
+        }
+      ]
+    },
+    "harp14.mp3": {
+      "file_name": "harp14.mp3",
+      "instrument": "harp",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3356,
+          "predict_time": 265,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.7111366987228394,
+              "average": 0.5957623620827993,
+              "min_perc": 0.5054708123207092,
+              "repeats": 6,
+              "label_id": "ebcd8b1dd32e90cd5259f607bca3d7e0300c3f7a"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.54068523645401,
+              "average": 0.54068523645401,
+              "min_perc": 0.54068523645401,
+              "repeats": 1,
+              "label_id": "4dba53010437d9320995c00d1658ed41633d0e50"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "0bee5a89f05d9edc84425e8b358e2574bd25db0a"
+        }
+      ]
+    },
+    "harp15.mp3": {
+      "file_name": "harp15.mp3",
+      "instrument": "harp",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3408,
+          "predict_time": 258,
+          "labels": [
+            {
+              "label": "violin",
+              "max_perc": 0.6352508068084717,
+              "average": 0.6352508068084717,
+              "min_perc": 0.6352508068084717,
+              "repeats": 1,
+              "label_id": "c21dca2540184310430c2ce7cf91bda1cebd2115"
+            },
+            {
+              "label": "guitar",
+              "max_perc": 0.731433093547821,
+              "average": 0.6350948810577393,
+              "min_perc": 0.5047777891159058,
+              "repeats": 3,
+              "label_id": "46f77581c6f9194a7cf57159aac73b0bb975c92d"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "8631fa1f1a7ee4f8a01363b5379d006ecb57c8f1"
+        }
+      ]
+    },
+    "harp16.mp3": {
+      "file_name": "harp16.mp3",
+      "instrument": "harp",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3421,
+          "predict_time": 262,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.7375699281692505,
+              "average": 0.5979539513587951,
+              "min_perc": 0.5058199763298035,
+              "repeats": 5,
+              "label_id": "bee5dcd8f5f7c39445739c6c664cec8619015880"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.5771136283874512,
+              "average": 0.5771136283874512,
+              "min_perc": 0.5771136283874512,
+              "repeats": 1,
+              "label_id": "72fe72d99c5611b054ac5c21a9f49259c1afcece"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "a6279af69a6cf0b617e091d3bde321389e3a2738"
+        }
+      ]
+    },
+    "harp17.mp3": {
+      "file_name": "harp17.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3403,
+          "predict_time": 266,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.7125853300094604,
+              "average": 0.663223922252655,
+              "min_perc": 0.6015730500221252,
+              "repeats": 4,
+              "label_id": "137555ac39d14e4d5667ada0fd463e9e4360d4b3"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.5103285908699036,
+              "average": 0.5103285908699036,
+              "min_perc": 0.5103285908699036,
+              "repeats": 1,
+              "label_id": "36630eb21f924590ed6a53af7ed1249b7e4d4322"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "43855e92e62120daf0d2ba1fe86d42620b958c09"
+        }
+      ]
+    },
+    "harp18.mp3": {
+      "file_name": "harp18.mp3",
+      "instrument": "harp",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3414,
+          "predict_time": 283,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.7155145406723022,
+              "average": 0.6232922449707985,
+              "min_perc": 0.5156134366989136,
+              "repeats": 8,
+              "label_id": "9b573c56c3f0e52c33828f625ea48a60c5d4c121"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "e8a83e22dbf3317a0ba664da188abd9fb72a6057"
+        }
+      ]
+    },
+    "harp19.mp3": {
+      "file_name": "harp19.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3396,
+          "predict_time": 262,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.8152445554733276,
+              "average": 0.7039245724678039,
+              "min_perc": 0.614692211151123,
+              "repeats": 10,
+              "label_id": "61d025f702289fd50a15342d679f7b340e838bf6"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.7240810394287109,
+              "average": 0.6271936893463135,
+              "min_perc": 0.53852778673172,
+              "repeats": 5,
+              "label_id": "0e11f8bb5184f22e8c0fea3cfa1dfe8f4c87618d"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "34b076ae1259b0085362a22fc3625435f4d35f9c"
+        }
+      ]
+    },
+    "harp20.mp3": {
+      "file_name": "harp20.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3411,
+          "predict_time": 263,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.6920742392539978,
+              "average": 0.6325576901435852,
+              "min_perc": 0.5783292055130005,
+              "repeats": 9,
+              "label_id": "d45c47aa0286ef7153f4ed0632d85759b8b2321f"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.7208896279335022,
+              "average": 0.6267683804035187,
+              "min_perc": 0.5382558703422546,
+              "repeats": 8,
+              "label_id": "1f75827084aa7447d156657f035b9fc6a4c72d67"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "429fed7d754c7af6d6e3a9e49b4d7abcbddc8680"
+        }
+      ]
+    },
+    "harp21.mp3": {
+      "file_name": "harp21.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3444,
+          "predict_time": 284,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.7116602063179016,
+              "average": 0.6183019280433655,
+              "min_perc": 0.5355775952339172,
+              "repeats": 6,
+              "label_id": "b5a4b41d7d663c69baf18994bd5d057b0d8ec18e"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.7134069800376892,
+              "average": 0.6274828414122263,
+              "min_perc": 0.539282500743866,
+              "repeats": 6,
+              "label_id": "9f352378c6c9d941f05a581307f475d233a982e8"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "3df75054770f18e2a07094285d9dcbd20f6d9d8d"
+        }
+      ]
+    },
+    "harp22.mp3": {
+      "file_name": "harp22.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3399,
+          "predict_time": 253,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.6141277551651001,
+              "average": 0.5404983077730451,
+              "min_perc": 0.5013028979301453,
+              "repeats": 7,
+              "label_id": "a7f64aa452b724239056b99ec7aa2e665e7f85b6"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.707570493221283,
+              "average": 0.6310633917649587,
+              "min_perc": 0.5219764709472656,
+              "repeats": 6,
+              "label_id": "99771db1c03ab1fc7cc4b34b83ca53142234f496"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "b983f1da8b4a4db2e98a0b3d282ac62a240b9abc"
+        }
+      ]
+    },
+    "harp23.mp3": {
+      "file_name": "harp23.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3384,
+          "predict_time": 263,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.5588018894195557,
+              "average": 0.5370851755142212,
+              "min_perc": 0.5038622617721558,
+              "repeats": 3,
+              "label_id": "bf2efef9335a48403212cb9bbdf09a18e8878a95"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.7198458909988403,
+              "average": 0.6400438398122787,
+              "min_perc": 0.5121683478355408,
+              "repeats": 4,
+              "label_id": "a2fb637c0d16cff69ca5424d6abc642ff9cee53c"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "ba1e1a4f986cd3dabd1c0d0973c8eba48b0ccf53"
+        }
+      ]
+    },
+    "harp24.mp3": {
+      "file_name": "harp24.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3442,
+          "predict_time": 261,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.6055026054382324,
+              "average": 0.5524777054786683,
+              "min_perc": 0.513706386089325,
+              "repeats": 5,
+              "label_id": "d80bb7e7c21c6cb1b418202c831d1891dea91065"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.7483980655670166,
+              "average": 0.6705754101276398,
+              "min_perc": 0.5777021050453186,
+              "repeats": 4,
+              "label_id": "a7c96795a48f3d6edcab607d1bd4eb7eae381a36"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "cef96286333e64a3234ff32ed52af80427fc612b"
+        }
+      ]
+    },
+    "harp25.mp3": {
+      "file_name": "harp25.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3370,
+          "predict_time": 260,
+          "labels": [
+            {
+              "label": "harp",
+              "max_perc": 0.7327669858932495,
+              "average": 0.6143197536468505,
+              "min_perc": 0.5045649409294128,
+              "repeats": 5,
+              "label_id": "933dd49b891b84c26e599de54a55f21d561892c7"
+            },
+            {
+              "label": "guitar",
+              "max_perc": 0.8344179391860962,
+              "average": 0.6874515533447265,
+              "min_perc": 0.5893045663833618,
+              "repeats": 5,
+              "label_id": "61a2bad1994247c195b7f26584e1b3fba293fe69"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "60c04a9d7d7713ac41d7674ca704b7c694696b83"
+        }
+      ]
+    },
+    "harp26.mp3": {
+      "file_name": "harp26.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3313,
+          "predict_time": 259,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.7509756088256836,
+              "average": 0.6648122668266296,
+              "min_perc": 0.5811155438423157,
+              "repeats": 10,
+              "label_id": "c08c94383497e0d953a9aa87e54e82f138b5d22c"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.5810657143592834,
+              "average": 0.5810657143592834,
+              "min_perc": 0.5810657143592834,
+              "repeats": 1,
+              "label_id": "e1caadf1d712aba8e11d8299c8fe5a7f192d0c0e"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "a76cbcb98757baf83c5af37e8ad79d8670f3b541"
+        }
+      ]
+    },
+    "harp27.mp3": {
+      "file_name": "harp27.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3381,
+          "predict_time": 260,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.8004714846611023,
+              "average": 0.6833910703659057,
+              "min_perc": 0.5208541750907898,
+              "repeats": 10,
+              "label_id": "e375d131aeffc245fb2f7c13ee040e14a0f922f8"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.8398641347885132,
+              "average": 0.6669009394115872,
+              "min_perc": 0.5211078524589539,
+              "repeats": 9,
+              "label_id": "7646a77b48f38776cf34b2aa439b626da78e5f93"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "5ee629c85a42d6f5f3880230d517156fd0c396f3"
+        }
+      ]
+    },
+    "harp28.mp3": {
+      "file_name": "harp28.mp3",
+      "instrument": "harp",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3410,
+          "predict_time": 270,
+          "labels": [
+            {
+              "label": "harp",
+              "max_perc": 0.7767555713653564,
+              "average": 0.6216086968779564,
+              "min_perc": 0.5139719843864441,
+              "repeats": 8,
+              "label_id": "5092ce0549acd38e4b15abc86b094be10a976a7d"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "cf4fe1f7d454a71df3a97027bfb8642561c8301a"
+        }
+      ]
+    },
+    "harp29.mp3": {
+      "file_name": "harp29.mp3",
+      "instrument": "harp",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3361,
+          "predict_time": 266,
+          "labels": [
+            {
+              "label": "harp",
+              "max_perc": 0.5757136940956116,
+              "average": 0.5757136940956116,
+              "min_perc": 0.5757136940956116,
+              "repeats": 1,
+              "label_id": "20000c13f4ddc274702c356648a42b13f7192c6a"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "970f4b65af95ef02c1d893923ff46b2943ae1dee"
+        }
+      ]
+    },
+    "harp30.mp3": {
+      "file_name": "harp30.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3360,
+          "predict_time": 306,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.8669048547744751,
+              "average": 0.7317960262298584,
+              "min_perc": 0.5908211469650269,
+              "repeats": 10,
+              "label_id": "97ea2433e8f0a1205551aa824527f02e88dce0f2"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.6437045931816101,
+              "average": 0.5873890668153763,
+              "min_perc": 0.526127815246582,
+              "repeats": 8,
+              "label_id": "e56f21c54c52a07f4577d519eeffb7f8bebe08cc"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "b2eba308550004cba70767e79ca73cfe2674df7a"
+        }
+      ]
+    },
+    "harp31.mp3": {
+      "file_name": "harp31.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3305,
+          "predict_time": 258,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.832788348197937,
+              "average": 0.7009818613529205,
+              "min_perc": 0.6010743379592896,
+              "repeats": 10,
+              "label_id": "56c3801dd4b736de6fc348d74bbc3aefcd59f15a"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.6683730483055115,
+              "average": 0.5970834791660309,
+              "min_perc": 0.5552619099617004,
+              "repeats": 8,
+              "label_id": "968438541471ca751d2ca9e15e6ef5614ea886a3"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "1800ce5cb36e1fbf6766ee3deab37b62bdbe1614"
+        }
+      ]
+    },
+    "harp32.mp3": {
+      "file_name": "harp32.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3414,
+          "predict_time": 263,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.8514542579650879,
+              "average": 0.7191236689686775,
+              "min_perc": 0.5164120197296143,
+              "repeats": 8,
+              "label_id": "54fc3d3c365f5ce1d1c0fdbef2ee43634f681cf6"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.7127801775932312,
+              "average": 0.6381115838885307,
+              "min_perc": 0.5518935322761536,
+              "repeats": 8,
+              "label_id": "cc55a90999a50814bf8d1a1ca2a309878771a073"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "d338c9dce218b60b7b1e8ff468aff78a2c2d8e05"
+        }
+      ]
+    },
+    "harp33.mp3": {
+      "file_name": "harp33.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3418,
+          "predict_time": 259,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.8848772048950195,
+              "average": 0.7603232681751251,
+              "min_perc": 0.618996262550354,
+              "repeats": 10,
+              "label_id": "abf1de958ff94b49423d492800d5dd8424826f4e"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.6979401707649231,
+              "average": 0.6036761328577995,
+              "min_perc": 0.5192096829414368,
+              "repeats": 8,
+              "label_id": "13b85818e1dad4153466af23ff0146c7c8a119c0"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "54df096d16076bfee75cd32eb4cfe4b1bf4054eb"
+        }
+      ]
+    },
+    "harp34.mp3": {
+      "file_name": "harp34.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3399,
+          "predict_time": 292,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.9130562543869019,
+              "average": 0.807372373342514,
+              "min_perc": 0.7057422399520874,
+              "repeats": 10,
+              "label_id": "025326010619d74be81e9a55eb59ccba72b1363f"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.6980698704719543,
+              "average": 0.588054284453392,
+              "min_perc": 0.5073222517967224,
+              "repeats": 8,
+              "label_id": "90f6590597cf2c4d6a10791c1e68f6cc3800a103"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "169bfa3ae26cddfb490e82b599846782ca0dc168"
+        }
+      ]
+    },
+    "harp35.mp3": {
+      "file_name": "harp35.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3377,
+          "predict_time": 267,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.8438384532928467,
+              "average": 0.7353893637657165,
+              "min_perc": 0.6082846522331238,
+              "repeats": 10,
+              "label_id": "73655ea882ae60decfc714016fb4d92ba385e588"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.7068325877189636,
+              "average": 0.6019715070724487,
+              "min_perc": 0.5016922950744629,
+              "repeats": 6,
+              "label_id": "65b4d3ffd0bfb636b1643f10476ee8cd4f9fd2a8"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "9421c34386083dc9299929e3f2e3a945d26ce868"
+        }
+      ]
+    },
+    "harp36.mp3": {
+      "file_name": "harp36.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3433,
+          "predict_time": 265,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.7228905558586121,
+              "average": 0.6218034997582436,
+              "min_perc": 0.5099431872367859,
+              "repeats": 8,
+              "label_id": "fcf91ce20cc0d5e4135c3e2d0a3440bc9128ef88"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.5598781108856201,
+              "average": 0.5386199951171875,
+              "min_perc": 0.5173618793487549,
+              "repeats": 2,
+              "label_id": "fc0ec811c1af4dc79e4130483e350a5d274324b6"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "a93bb564659a31b5a474c0525ae4a643c05529e4"
+        }
+      ]
+    },
+    "harp37.mp3": {
+      "file_name": "harp37.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3402,
+          "predict_time": 256,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.8331995010375977,
+              "average": 0.6733579337596893,
+              "min_perc": 0.5567827820777893,
+              "repeats": 10,
+              "label_id": "7e07a2990370df6ec8fd6e08e44b78fa46f4367f"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.6465230584144592,
+              "average": 0.592878003915151,
+              "min_perc": 0.5145304203033447,
+              "repeats": 3,
+              "label_id": "2cba1e25ab69611bf2e5f882bd46d0ddc8587bf6"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "243d07311d3e3468829ca8919711858136f5f73a"
+        }
+      ]
+    },
+    "harp38.mp3": {
+      "file_name": "harp38.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3400,
+          "predict_time": 268,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.7592054605484009,
+              "average": 0.6599972307682037,
+              "min_perc": 0.5690966248512268,
+              "repeats": 10,
+              "label_id": "bb2a5322a3aa9bcc8d51ff9ba1f15216d95e6d53"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.6996757984161377,
+              "average": 0.6034048100312551,
+              "min_perc": 0.5109108686447144,
+              "repeats": 6,
+              "label_id": "2ca4fc9f7cf78de3e8af8f6720e16315989a0bcb"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "a5a2e099acd45eff956182beb7a9b22c31b95e1f"
+        }
+      ]
+    },
+    "harp39.mp3": {
+      "file_name": "harp39.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3358,
+          "predict_time": 263,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.8018739223480225,
+              "average": 0.7215737476944923,
+              "min_perc": 0.5994850993156433,
+              "repeats": 8,
+              "label_id": "52420588a10785e832e587e6c9ceb7e87ba24609"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.6974091529846191,
+              "average": 0.5912648174497817,
+              "min_perc": 0.5079675912857056,
+              "repeats": 9,
+              "label_id": "0187685fe6b776aa7f0abd5163ab2925764fb8a7"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "67802d39a9f6bb67bfd01a3610f144e5ce7ba0f2"
+        }
+      ]
+    },
+    "harp40.mp3": {
+      "file_name": "harp40.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3328,
+          "predict_time": 273,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.8248907327651978,
+              "average": 0.7008617043495178,
+              "min_perc": 0.6035271883010864,
+              "repeats": 10,
+              "label_id": "886d1072ea367e3d04fbfffe8f8ad617f37e1bb9"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.6562705039978027,
+              "average": 0.6178202778100967,
+              "min_perc": 0.5794001817703247,
+              "repeats": 4,
+              "label_id": "9402bcaa9e5bae75cd4315c66ffe5301572503fd"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "43c5e90dd35e8d774850e6893b9d9a23487bd28a"
+        }
+      ]
+    },
+    "harp41.mp3": {
+      "file_name": "harp41.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3319,
+          "predict_time": 303,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.8366556167602539,
+              "average": 0.6451313853263855,
+              "min_perc": 0.5182399749755859,
+              "repeats": 10,
+              "label_id": "164e14b911f226244173566720f4efe4610754c4"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.6349568963050842,
+              "average": 0.6046822269757589,
+              "min_perc": 0.5633746981620789,
+              "repeats": 3,
+              "label_id": "406a819aa46dba30aac19462285467e09eb821d2"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "96605079b8d1809dc9e00ca3b043a00e7397ad6d"
+        }
+      ]
+    },
+    "harp42.mp3": {
+      "file_name": "harp42.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3301,
+          "predict_time": 260,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.7281380295753479,
+              "average": 0.6286221742630005,
+              "min_perc": 0.5405098795890808,
+              "repeats": 9,
+              "label_id": "517717f4b62ed2d3863fdcde762f10935564efa7"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.6448643207550049,
+              "average": 0.6448643207550049,
+              "min_perc": 0.6448643207550049,
+              "repeats": 1,
+              "label_id": "c2f31c44a7ddd8be9fa9db8751dd47fc3c23734f"
+            },
+            {
+              "label": "piano",
+              "max_perc": 0.5419885516166687,
+              "average": 0.5419885516166687,
+              "min_perc": 0.5419885516166687,
+              "repeats": 1,
+              "label_id": "fc400b7eb61011e2921d84e8655ff7ee43274d48"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "23ee799b5be10f7f4582e121466afa7e9c816ee4"
+        }
+      ]
+    },
+    "harp43.mp3": {
+      "file_name": "harp43.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3311,
+          "predict_time": 265,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.713336169719696,
+              "average": 0.6127343007496425,
+              "min_perc": 0.5099065899848938,
+              "repeats": 7,
+              "label_id": "90ca35ad7fd1958ce78b1c902dd58efe96b4d223"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.6180118918418884,
+              "average": 0.6180118918418884,
+              "min_perc": 0.6180118918418884,
+              "repeats": 1,
+              "label_id": "9361b2bdf1d3e941b01162853c0e84237b798d59"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "436077caf86faf47aaa2dccb60a4bbdf807b2a4d"
+        }
+      ]
+    },
+    "harp44.mp3": {
+      "file_name": "harp44.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3346,
+          "predict_time": 277,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.7083443403244019,
+              "average": 0.6342586159706116,
+              "min_perc": 0.5102635622024536,
+              "repeats": 5,
+              "label_id": "9104fa1eb38bdb2bcd9447fa697a93f5ce2033b8"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.6916810870170593,
+              "average": 0.5891296148300171,
+              "min_perc": 0.5021889805793762,
+              "repeats": 5,
+              "label_id": "d70ce3cbc6e388d2cc64ca4e23420c1a1bc01f34"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "928de2b60a600dda43700540d3d9058471cad059"
+        }
+      ]
+    },
+    "harp45.mp3": {
+      "file_name": "harp45.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3409,
+          "predict_time": 321,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.7588896751403809,
+              "average": 0.6533100962638855,
+              "min_perc": 0.5078474879264832,
+              "repeats": 10,
+              "label_id": "925c75b3c96987b050678fc87e0cc28f41f822ef"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.6476527452468872,
+              "average": 0.565901480615139,
+              "min_perc": 0.5334925055503845,
+              "repeats": 8,
+              "label_id": "2f1e6c861129f796e4f2710fc93fd03b06e8984b"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "2667428b9320da0c7cfb0921576df1023e586478"
+        }
+      ]
+    },
+    "harp46.mp3": {
+      "file_name": "harp46.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3376,
+          "predict_time": 260,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.7095164060592651,
+              "average": 0.6544320940971374,
+              "min_perc": 0.5950760841369629,
+              "repeats": 5,
+              "label_id": "10f5b87b56f26fbcceaa3b1c5558b8d3187daa8e"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.6332063674926758,
+              "average": 0.5939721614122391,
+              "min_perc": 0.5511358380317688,
+              "repeats": 4,
+              "label_id": "53a03a7e7686d7b586f4a7f2776ff410e94d440d"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "62c8c91c91ad3cec5bcf73cf284ce578a7a05e9c"
+        }
+      ]
+    },
+    "harp47.mp3": {
+      "file_name": "harp47.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3361,
+          "predict_time": 256,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.7423083782196045,
+              "average": 0.6449491024017334,
+              "min_perc": 0.5307835340499878,
+              "repeats": 10,
+              "label_id": "1042d77e376a1811b44b85d6142313b8db25a849"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "1a60e8b7576360ed4fa2658041bfef13d7610e81"
+        }
+      ]
+    },
+    "harp48.mp3": {
+      "file_name": "harp48.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3372,
+          "predict_time": 272,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.8161112666130066,
+              "average": 0.6707606613636017,
+              "min_perc": 0.5318253636360168,
+              "repeats": 6,
+              "label_id": "7e25897a8b80acc8d364fc874ffc574a16a294af"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.5172091722488403,
+              "average": 0.5172091722488403,
+              "min_perc": 0.5172091722488403,
+              "repeats": 1,
+              "label_id": "9a884ea02581ea7e755de8c9c60554ca660f9fda"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "1686acca33348de8e4140bee039656cb30773126"
+        }
+      ]
+    },
+    "harp49.mp3": {
+      "file_name": "harp49.mp3",
+      "instrument": "harp",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3413,
+          "predict_time": 273,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.8228258490562439,
+              "average": 0.6572280898690224,
+              "min_perc": 0.5040798783302307,
+              "repeats": 8,
+              "label_id": "58a61f8230b40ebf165280fbe7a5e069b3f4e8c9"
+            },
+            {
+              "label": "harp",
+              "max_perc": 0.744529128074646,
+              "average": 0.6201148799487523,
+              "min_perc": 0.5055493712425232,
+              "repeats": 7,
+              "label_id": "3ef262315d4fe7767fb7b76ffde309bf05a2f5a2"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "349c2d6b9252ea273aa62a84f944776dc43f9b1e"
+        }
+      ]
+    }
+  }

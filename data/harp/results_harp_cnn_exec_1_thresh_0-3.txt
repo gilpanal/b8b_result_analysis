@@ -1,0 +1,313 @@
+harp0.mp3
+sumExtractTime 3361
+sumPredictTime 614
+execs 1
+accuracy 0.5
+ 
+harp1.mp3
+sumExtractTime 3338
+sumPredictTime 530
+execs 1
+accuracy 0.3333333333333333
+ 
+harp2.mp3
+sumExtractTime 3419
+sumPredictTime 528
+execs 1
+accuracy 0.5
+ 
+harp3.mp3
+sumExtractTime 3382
+sumPredictTime 508
+execs 1
+accuracy 0.3333333333333333
+ 
+harp4.mp3
+sumExtractTime 3473
+sumPredictTime 519
+execs 1
+accuracy 0.3333333333333333
+ 
+harp5.mp3
+sumExtractTime 3354
+sumPredictTime 533
+execs 1
+accuracy 0.5
+ 
+harp6.mp3
+sumExtractTime 3323
+sumPredictTime 521
+execs 1
+accuracy 0.5
+ 
+harp7.mp3
+sumExtractTime 3409
+sumPredictTime 512
+execs 1
+accuracy 0.5
+ 
+harp8.mp3
+sumExtractTime 3393
+sumPredictTime 529
+execs 1
+accuracy 0.3333333333333333
+ 
+harp9.mp3
+sumExtractTime 3409
+sumPredictTime 526
+execs 1
+accuracy 0.5
+ 
+harp10.mp3
+sumExtractTime 3399
+sumPredictTime 609
+execs 1
+accuracy 1
+ 
+harp11.mp3
+sumExtractTime 3408
+sumPredictTime 539
+execs 1
+accuracy 0
+ 
+harp12.mp3
+sumExtractTime 3310
+sumPredictTime 522
+execs 1
+accuracy 1
+ 
+harp13.mp3
+sumExtractTime 3458
+sumPredictTime 525
+execs 1
+accuracy 1
+ 
+harp14.mp3
+sumExtractTime 3369
+sumPredictTime 521
+execs 1
+accuracy 1
+ 
+harp15.mp3
+sumExtractTime 3553
+sumPredictTime 534
+execs 1
+accuracy 1
+ 
+harp16.mp3
+sumExtractTime 3440
+sumPredictTime 520
+execs 1
+accuracy 1
+ 
+harp17.mp3
+sumExtractTime 3372
+sumPredictTime 541
+execs 1
+accuracy 0.5
+ 
+harp18.mp3
+sumExtractTime 3379
+sumPredictTime 522
+execs 1
+accuracy 0
+ 
+harp19.mp3
+sumExtractTime 3342
+sumPredictTime 528
+execs 1
+accuracy 0.5
+ 
+harp20.mp3
+sumExtractTime 3292
+sumPredictTime 551
+execs 1
+accuracy 0.3333333333333333
+ 
+harp21.mp3
+sumExtractTime 3352
+sumPredictTime 519
+execs 1
+accuracy 0.3333333333333333
+ 
+harp22.mp3
+sumExtractTime 3445
+sumPredictTime 528
+execs 1
+accuracy 0.3333333333333333
+ 
+harp23.mp3
+sumExtractTime 3358
+sumPredictTime 522
+execs 1
+accuracy 0.3333333333333333
+ 
+harp24.mp3
+sumExtractTime 3273
+sumPredictTime 534
+execs 1
+accuracy 0.3333333333333333
+ 
+harp25.mp3
+sumExtractTime 3302
+sumPredictTime 546
+execs 1
+accuracy 0.3333333333333333
+ 
+harp26.mp3
+sumExtractTime 3382
+sumPredictTime 526
+execs 1
+accuracy 0.3333333333333333
+ 
+harp27.mp3
+sumExtractTime 3373
+sumPredictTime 522
+execs 1
+accuracy 0.5
+ 
+harp28.mp3
+sumExtractTime 3286
+sumPredictTime 524
+execs 1
+accuracy 1
+ 
+harp29.mp3
+sumExtractTime 3284
+sumPredictTime 524
+execs 1
+accuracy 1
+ 
+harp30.mp3
+sumExtractTime 3340
+sumPredictTime 546
+execs 1
+accuracy 0.5
+ 
+harp31.mp3
+sumExtractTime 3412
+sumPredictTime 537
+execs 1
+accuracy 0.5
+ 
+harp32.mp3
+sumExtractTime 3703
+sumPredictTime 795
+execs 1
+accuracy 0.5
+ 
+harp33.mp3
+sumExtractTime 3384
+sumPredictTime 532
+execs 1
+accuracy 0.5
+ 
+harp34.mp3
+sumExtractTime 3361
+sumPredictTime 520
+execs 1
+accuracy 0.5
+ 
+harp35.mp3
+sumExtractTime 3326
+sumPredictTime 524
+execs 1
+accuracy 0.5
+ 
+harp36.mp3
+sumExtractTime 3303
+sumPredictTime 534
+execs 1
+accuracy 0.3333333333333333
+ 
+harp37.mp3
+sumExtractTime 3448
+sumPredictTime 545
+execs 1
+accuracy 0.5
+ 
+harp38.mp3
+sumExtractTime 3469
+sumPredictTime 536
+execs 1
+accuracy 0.5
+ 
+harp39.mp3
+sumExtractTime 3261
+sumPredictTime 538
+execs 1
+accuracy 0.5
+ 
+harp40.mp3
+sumExtractTime 3260
+sumPredictTime 530
+execs 1
+accuracy 0.5
+ 
+harp41.mp3
+sumExtractTime 3363
+sumPredictTime 523
+execs 1
+accuracy 0.5
+ 
+harp42.mp3
+sumExtractTime 3342
+sumPredictTime 524
+execs 1
+accuracy 0.3333333333333333
+ 
+harp43.mp3
+sumExtractTime 3367
+sumPredictTime 536
+execs 1
+accuracy 0.3333333333333333
+ 
+harp44.mp3
+sumExtractTime 3346
+sumPredictTime 556
+execs 1
+accuracy 0.3333333333333333
+ 
+harp45.mp3
+sumExtractTime 3410
+sumPredictTime 541
+execs 1
+accuracy 0.3333333333333333
+ 
+harp46.mp3
+sumExtractTime 3382
+sumPredictTime 561
+execs 1
+accuracy 0.3333333333333333
+ 
+harp47.mp3
+sumExtractTime 3347
+sumPredictTime 550
+execs 1
+accuracy 0.3333333333333333
+ 
+harp48.mp3
+sumExtractTime 3316
+sumPredictTime 546
+execs 1
+accuracy 0.3333333333333333
+ 
+harp49.mp3
+sumExtractTime 3382
+sumPredictTime 565
+execs 1
+accuracy 0.5
+ 
+ 
+ Group:  harp
+averageExtractTime 3375.2
+averagePredictTime 540.32
+averageAccuracy 0.4966666666666666
+numInstFiles 50
+ 
+ 
+ Group:  TOTAL
+averageExtractTime 3375.2
+averagePredictTime 540.32
+averageAccuracy 0.4966666666666666
+numInstFiles 50

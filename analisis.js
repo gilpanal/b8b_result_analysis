@@ -31,7 +31,6 @@ start = async () => {
     for (const [i, fileIs] of files.entries()) {
 
         let instrument_name = jsonIs[fileIs].instrument
-        instrument_name.slice(0, -1)
 
         if (!currentFamily) {
             currentFamily = instrument_name
