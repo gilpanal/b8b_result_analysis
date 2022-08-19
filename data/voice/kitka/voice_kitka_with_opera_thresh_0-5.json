@@ -1,0 +1,1298 @@
+{
+    "voice100.mp3": {
+      "file_name": "voice100.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3216,
+          "predict_time": 499,
+          "labels": [],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "53f510d221f8727747991d20338efbc8d8b9ac5d"
+        }
+      ]
+    },
+    "voice101.mp3": {
+      "file_name": "voice101.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3302,
+          "predict_time": 510,
+          "labels": [],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "cfc1a0a23dc268c113062d32e5a1546c615587dd"
+        }
+      ]
+    },
+    "voice102.mp3": {
+      "file_name": "voice102.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3305,
+          "predict_time": 516,
+          "labels": [],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "f23ab16e92fbf95dbd252700d3d952530fdc129f"
+        }
+      ]
+    },
+    "voice103.mp3": {
+      "file_name": "voice103.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3501,
+          "predict_time": 578,
+          "labels": [
+            {
+              "label": "female",
+              "max_perc": 0.5342776775360107,
+              "average": 0.5342776775360107,
+              "min_perc": 0.5342776775360107,
+              "repeats": 1,
+              "label_id": "d491ce949f47eceae4860131084305cfc27c1c55"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "8924d3460e09402a6b0d3dbf56adf2597f88ca88"
+        }
+      ]
+    },
+    "voice104.mp3": {
+      "file_name": "voice104.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3257,
+          "predict_time": 506,
+          "labels": [],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "5a4ad918c89fb6d07236edeaa343e097bfaa61b9"
+        }
+      ]
+    },
+    "voice105.mp3": {
+      "file_name": "voice105.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3300,
+          "predict_time": 507,
+          "labels": [],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "d476491cacd9105319c9386a544cfa8f12d2c89c"
+        }
+      ]
+    },
+    "voice106.mp3": {
+      "file_name": "voice106.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3237,
+          "predict_time": 528,
+          "labels": [
+            {
+              "label": "female",
+              "max_perc": 0.7518518567085266,
+              "average": 0.6683880090713501,
+              "min_perc": 0.5050121545791626,
+              "repeats": 10,
+              "label_id": "05283185f778f1673217791de80b29a7f35de23a"
+            },
+            {
+              "label": "woman",
+              "max_perc": 0.5174353122711182,
+              "average": 0.5088563561439514,
+              "min_perc": 0.5002774000167847,
+              "repeats": 2,
+              "label_id": "70fcd576daebb24c2ff8ec12199bc87c009df0bd"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "0bc3b103fb61b2619f93f182767615d55303327f"
+        }
+      ]
+    },
+    "voice107.mp3": {
+      "file_name": "voice107.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3338,
+          "predict_time": 509,
+          "labels": [
+            {
+              "label": "female",
+              "max_perc": 0.7706454396247864,
+              "average": 0.616900497674942,
+              "min_perc": 0.5296831727027893,
+              "repeats": 10,
+              "label_id": "c6d062d3b06e21c16d983fe7e7a4949f9c7a4d2e"
+            },
+            {
+              "label": "woman",
+              "max_perc": 0.5331978797912598,
+              "average": 0.5331978797912598,
+              "min_perc": 0.5331978797912598,
+              "repeats": 1,
+              "label_id": "3be37901efc5b9d2ab21257d59df4b1f54a0604f"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "7d4449e34ab60ba4a48cbead431fa8f76538848e"
+        }
+      ]
+    },
+    "voice108.mp3": {
+      "file_name": "voice108.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3349,
+          "predict_time": 505,
+          "labels": [
+            {
+              "label": "female",
+              "max_perc": 0.757887601852417,
+              "average": 0.639272928237915,
+              "min_perc": 0.5320051908493042,
+              "repeats": 10,
+              "label_id": "5f0e246be4687917862ad385d5f4d61f8f1493c5"
+            },
+            {
+              "label": "woman",
+              "max_perc": 0.5311719179153442,
+              "average": 0.5311719179153442,
+              "min_perc": 0.5311719179153442,
+              "repeats": 1,
+              "label_id": "1575121d38d8ea198071d786fda873b9d17d2046"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "f3196ee776c1af0dc59721700e3f9291ebd0b126"
+        }
+      ]
+    },
+    "voice109.mp3": {
+      "file_name": "voice109.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3500,
+          "predict_time": 576,
+          "labels": [
+            {
+              "label": "female",
+              "max_perc": 0.7037588357925415,
+              "average": 0.6226409806145562,
+              "min_perc": 0.5068639516830444,
+              "repeats": 9,
+              "label_id": "0d7cb16b3fa57a8181db10b9183091df6291411c"
+            },
+            {
+              "label": "opera",
+              "max_perc": 0.5692945122718811,
+              "average": 0.5692945122718811,
+              "min_perc": 0.5692945122718811,
+              "repeats": 1,
+              "label_id": "36a54c96fc107d80b890ee388cf237c7035b9a4a"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "8f07d9770d8ad63aa6119954773aea7c95ac1205"
+        }
+      ]
+    },
+    "voice110.mp3": {
+      "file_name": "voice110.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3377,
+          "predict_time": 507,
+          "labels": [
+            {
+              "label": "female",
+              "max_perc": 0.518836498260498,
+              "average": 0.518836498260498,
+              "min_perc": 0.518836498260498,
+              "repeats": 1,
+              "label_id": "bde81d46e905eefdef722810adf145effdeefb56"
+            },
+            {
+              "label": "flute",
+              "max_perc": 0.7521160840988159,
+              "average": 0.7521160840988159,
+              "min_perc": 0.7521160840988159,
+              "repeats": 1,
+              "label_id": "dc2635134cf6be631b4b89487cf411f7ad9964e0"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "3fa90db27d6ba9a61b292e00641ab6042a8071ca"
+        }
+      ]
+    },
+    "voice111.mp3": {
+      "file_name": "voice111.mp3",
+      "instrument": "voice",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3420,
+          "predict_time": 531,
+          "labels": [
+            {
+              "label": "drums",
+              "max_perc": 0.588712215423584,
+              "average": 0.588712215423584,
+              "min_perc": 0.588712215423584,
+              "repeats": 1,
+              "label_id": "7f30cd22d168a81e950c264cc86fcab06a5822ff"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "d7648eff47c0d47b8d82253543a7e31ec81819cc"
+        }
+      ]
+    },
+    "voice112.mp3": {
+      "file_name": "voice112.mp3",
+      "instrument": "voice",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3371,
+          "predict_time": 512,
+          "labels": [
+            {
+              "label": "female",
+              "max_perc": 0.5626394748687744,
+              "average": 0.5626394748687744,
+              "min_perc": 0.5626394748687744,
+              "repeats": 1,
+              "label_id": "0c6979c7f746d59cfd1b53bf72bb0297d022c989"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "f9ed7c5da2986ed0cb07b4ca915a52097a68de2a"
+        }
+      ]
+    },
+    "voice113.mp3": {
+      "file_name": "voice113.mp3",
+      "instrument": "voice",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3412,
+          "predict_time": 508,
+          "labels": [],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "9ba088fd5de857b1a78fb159a648546ab5c32e95"
+        }
+      ]
+    },
+    "voice114.mp3": {
+      "file_name": "voice114.mp3",
+      "instrument": "voice",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3438,
+          "predict_time": 511,
+          "labels": [
+            {
+              "label": "female",
+              "max_perc": 0.6710114479064941,
+              "average": 0.5964373797178268,
+              "min_perc": 0.5218067169189453,
+              "repeats": 4,
+              "label_id": "c722d1f62254fb7132343ca2c3206eaa4c1b6300"
+            },
+            {
+              "label": "opera",
+              "max_perc": 0.7161615490913391,
+              "average": 0.6482594013214111,
+              "min_perc": 0.558454155921936,
+              "repeats": 4,
+              "label_id": "4bbb9af8fcfba043d23c187de5390f730242c923"
+            },
+            {
+              "label": "woman",
+              "max_perc": 0.5013629198074341,
+              "average": 0.5013629198074341,
+              "min_perc": 0.5013629198074341,
+              "repeats": 1,
+              "label_id": "109657643e87a92450ddbe824eff61b98c5de48b"
+            },
+            {
+              "label": "guitar",
+              "max_perc": 0.5303505659103394,
+              "average": 0.5303505659103394,
+              "min_perc": 0.5303505659103394,
+              "repeats": 1,
+              "label_id": "4b93cf13ba72d7dcb0767124e65c9deb5503b962"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "2c94e1e1eecbf051fbd80c33d1abf461d741cbc9"
+        }
+      ]
+    },
+    "voice115.mp3": {
+      "file_name": "voice115.mp3",
+      "instrument": "voice",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3391,
+          "predict_time": 509,
+          "labels": [
+            {
+              "label": "choir",
+              "max_perc": 0.6531440019607544,
+              "average": 0.5960652351379394,
+              "min_perc": 0.5181483030319214,
+              "repeats": 5,
+              "label_id": "0b394223b2528ae4c1ba2b895a5645e25711cd89"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "05387485de08553dbfd09649f63d2f6fa9306c90"
+        }
+      ]
+    },
+    "voice116.mp3": {
+      "file_name": "voice116.mp3",
+      "instrument": "voice",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3407,
+          "predict_time": 505,
+          "labels": [
+            {
+              "label": "guitar",
+              "max_perc": 0.5777407884597778,
+              "average": 0.5777407884597778,
+              "min_perc": 0.5777407884597778,
+              "repeats": 1,
+              "label_id": "dcf4ce836dc245b60de3f0c510aa885fc0c80c1e"
+            },
+            {
+              "label": "choir",
+              "max_perc": 0.555950403213501,
+              "average": 0.555950403213501,
+              "min_perc": 0.555950403213501,
+              "repeats": 1,
+              "label_id": "6b8a1dba0b791ad3212badbbaa7930c0f602211b"
+            },
+            {
+              "label": "opera",
+              "max_perc": 0.580700695514679,
+              "average": 0.580700695514679,
+              "min_perc": 0.580700695514679,
+              "repeats": 1,
+              "label_id": "2dca7d41b65401cdbb26cb92e7f4f4a5fc7e7c7a"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "ce806aef016af3c9d5fab7b430858d7ab9be5948"
+        }
+      ]
+    },
+    "voice117.mp3": {
+      "file_name": "voice117.mp3",
+      "instrument": "voice",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3308,
+          "predict_time": 518,
+          "labels": [
+            {
+              "label": "opera",
+              "max_perc": 0.5503067374229431,
+              "average": 0.5503067374229431,
+              "min_perc": 0.5503067374229431,
+              "repeats": 1,
+              "label_id": "bc1751fead6a68336a325d319e7dbe758380e45a"
+            },
+            {
+              "label": "choir",
+              "max_perc": 0.6307138204574585,
+              "average": 0.6307138204574585,
+              "min_perc": 0.6307138204574585,
+              "repeats": 1,
+              "label_id": "423ce919c5cce09488db3c0d9e09aa6fc8f9267c"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "7c5e2cc627f435ce9abc3d6bfe531ab1e55337e0"
+        }
+      ]
+    },
+    "voice118.mp3": {
+      "file_name": "voice118.mp3",
+      "instrument": "voice",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3271,
+          "predict_time": 500,
+          "labels": [
+            {
+              "label": "choir",
+              "max_perc": 0.726981520652771,
+              "average": 0.641287604967753,
+              "min_perc": 0.5328842401504517,
+              "repeats": 3,
+              "label_id": "c3d0b2fade4e8126d1cc1e3004cd25a14fe85d1a"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "dd6feefb80beb47a182604e523778bba06c49701"
+        }
+      ]
+    },
+    "voice119.mp3": {
+      "file_name": "voice119.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3259,
+          "predict_time": 569,
+          "labels": [
+            {
+              "label": "female",
+              "max_perc": 0.6169517636299133,
+              "average": 0.5668727358182272,
+              "min_perc": 0.5138976573944092,
+              "repeats": 3,
+              "label_id": "8293e1b489600630a64ae8027e89c0f8b8bbc0a2"
+            },
+            {
+              "label": "opera",
+              "max_perc": 0.6117233633995056,
+              "average": 0.6117233633995056,
+              "min_perc": 0.6117233633995056,
+              "repeats": 1,
+              "label_id": "07ee18925c212b2de9d1dbfa3b2b5391580d3e75"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "210b7c89d7b274c3816db3c70226db53b2ce1534"
+        }
+      ]
+    },
+    "voice120.mp3": {
+      "file_name": "voice120.mp3",
+      "instrument": "voice",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3274,
+          "predict_time": 509,
+          "labels": [
+            {
+              "label": "female",
+              "max_perc": 0.596340000629425,
+              "average": 0.596340000629425,
+              "min_perc": 0.596340000629425,
+              "repeats": 1,
+              "label_id": "b49ef4d07def1fd524eca275258becd4b7ae156b"
+            },
+            {
+              "label": "violin",
+              "max_perc": 0.6914499998092651,
+              "average": 0.6485155522823334,
+              "min_perc": 0.6055811047554016,
+              "repeats": 2,
+              "label_id": "28cd0e51c9d1af575e2dd3e999dbd315bb84d389"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "cc6859c974340f7bcef21c910e42efd1d04ea281"
+        }
+      ]
+    },
+    "voice121.mp3": {
+      "file_name": "voice121.mp3",
+      "instrument": "voice",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3299,
+          "predict_time": 512,
+          "labels": [
+            {
+              "label": "female",
+              "max_perc": 0.6581217050552368,
+              "average": 0.5693647384643554,
+              "min_perc": 0.5002474784851074,
+              "repeats": 5,
+              "label_id": "e63dd2664d42190590cb187372684df10f815dcf"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "0da10ffe3a0e21bded36e68e79a4fcdec9eb7904"
+        }
+      ]
+    },
+    "voice122.mp3": {
+      "file_name": "voice122.mp3",
+      "instrument": "voice",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3291,
+          "predict_time": 504,
+          "labels": [
+            {
+              "label": "female",
+              "max_perc": 0.5724791288375854,
+              "average": 0.5724791288375854,
+              "min_perc": 0.5724791288375854,
+              "repeats": 1,
+              "label_id": "d79522270cdd0232ac19b3f21f8482a037692be6"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "73e491007ad1eb11d055854aa364439133ad38cc"
+        }
+      ]
+    },
+    "voice123.mp3": {
+      "file_name": "voice123.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3320,
+          "predict_time": 502,
+          "labels": [
+            {
+              "label": "female",
+              "max_perc": 0.509793758392334,
+              "average": 0.509793758392334,
+              "min_perc": 0.509793758392334,
+              "repeats": 1,
+              "label_id": "033f838ed2f7ee5243d0dd00a5885f856f911d9a"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "712b5b0614394f56e7c16b5252e069ec21d21917"
+        }
+      ]
+    },
+    "voice124.mp3": {
+      "file_name": "voice124.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3206,
+          "predict_time": 524,
+          "labels": [],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "0d303bb46105c146ac749c7e6272ece5409e960c"
+        }
+      ]
+    },
+    "voice125.mp3": {
+      "file_name": "voice125.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3258,
+          "predict_time": 503,
+          "labels": [
+            {
+              "label": "female",
+              "max_perc": 0.5120612978935242,
+              "average": 0.5079523622989655,
+              "min_perc": 0.5038434267044067,
+              "repeats": 2,
+              "label_id": "c90e4b15f678dd77ea96b5d24007180b6ec56e31"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "0d14a425a0f9fbdfc74ed9fd65b4641799923ec4"
+        }
+      ]
+    },
+    "voice126.mp3": {
+      "file_name": "voice126.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3317,
+          "predict_time": 510,
+          "labels": [
+            {
+              "label": "choir",
+              "max_perc": 0.7670822143554688,
+              "average": 0.66593485219138,
+              "min_perc": 0.5140393376350403,
+              "repeats": 7,
+              "label_id": "db429b797600719c6b72c7643d7a673d17955ba0"
+            },
+            {
+              "label": "choral",
+              "max_perc": 0.6035614609718323,
+              "average": 0.5517412066459656,
+              "min_perc": 0.5141422748565674,
+              "repeats": 5,
+              "label_id": "8d7d80b4811f8c2ec62e0dd8062f6ff1b892833b"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "79f41b0c89008eb016e97fafdc61483fe7ff68f1"
+        }
+      ]
+    },
+    "voice127.mp3": {
+      "file_name": "voice127.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3286,
+          "predict_time": 506,
+          "labels": [
+            {
+              "label": "choir",
+              "max_perc": 0.8653653264045715,
+              "average": 0.6930801783289228,
+              "min_perc": 0.545466959476471,
+              "repeats": 7,
+              "label_id": "1e9cf2c62099cd90e287fe2cf88bcf55eb175cf0"
+            },
+            {
+              "label": "choral",
+              "max_perc": 0.565538763999939,
+              "average": 0.5478712916374207,
+              "min_perc": 0.5365680456161499,
+              "repeats": 3,
+              "label_id": "205d56f8de4669d2cd2db5144ee6d6ea15af27fb"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "fe42befac62d4635ba70743b633166b48f669692"
+        }
+      ]
+    },
+    "voice128.mp3": {
+      "file_name": "voice128.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3239,
+          "predict_time": 504,
+          "labels": [
+            {
+              "label": "opera",
+              "max_perc": 0.5287095308303833,
+              "average": 0.5287095308303833,
+              "min_perc": 0.5287095308303833,
+              "repeats": 1,
+              "label_id": "542c5de8384c05163188f29f81402631cec8940d"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "2f625d425ebf23acaad8b05bc2b73d2ba71347e4"
+        }
+      ]
+    },
+    "voice129.mp3": {
+      "file_name": "voice129.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3225,
+          "predict_time": 506,
+          "labels": [
+            {
+              "label": "opera",
+              "max_perc": 0.5210274457931519,
+              "average": 0.5210274457931519,
+              "min_perc": 0.5210274457931519,
+              "repeats": 1,
+              "label_id": "1bb2b780bd363f5814572ece7cb2b4020a5425ea"
+            },
+            {
+              "label": "choir",
+              "max_perc": 0.8364918828010559,
+              "average": 0.6722452640533447,
+              "min_perc": 0.5009838938713074,
+              "repeats": 8,
+              "label_id": "932e981cb78af19480488ed6af02a9daf917692e"
+            },
+            {
+              "label": "choral",
+              "max_perc": 0.5715046525001526,
+              "average": 0.5363113582134247,
+              "min_perc": 0.5011180639266968,
+              "repeats": 2,
+              "label_id": "a167e76c6982be7891cab85e2f71cf1dc4dac455"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "7f789a4e046f44e75f0e922573ee2c465f607840"
+        }
+      ]
+    },
+    "voice130.mp3": {
+      "file_name": "voice130.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3399,
+          "predict_time": 588,
+          "labels": [
+            {
+              "label": "choir",
+              "max_perc": 0.8659524917602539,
+              "average": 0.7358384217534747,
+              "min_perc": 0.6024748086929321,
+              "repeats": 7,
+              "label_id": "3fda38a9d8a96ba978779667f16f78925c571468"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "fdba9356bbe24282c5f61f4eaa03812a31fe359c"
+        }
+      ]
+    },
+    "voice131.mp3": {
+      "file_name": "voice131.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3226,
+          "predict_time": 514,
+          "labels": [
+            {
+              "label": "choir",
+              "max_perc": 0.8079760074615479,
+              "average": 0.6995536940438407,
+              "min_perc": 0.5524123907089233,
+              "repeats": 7,
+              "label_id": "c2c1679ca6a79d14932d3e8dd7b32e02400ef013"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "52ddd5caa5856d05e4666c9910d0f2b487baf245"
+        }
+      ]
+    },
+    "voice132.mp3": {
+      "file_name": "voice132.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3203,
+          "predict_time": 510,
+          "labels": [
+            {
+              "label": "choir",
+              "max_perc": 0.5838052034378052,
+              "average": 0.5838052034378052,
+              "min_perc": 0.5838052034378052,
+              "repeats": 1,
+              "label_id": "6d7be8403d474dd90550486f288c57f05460b4c6"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "cb5ae449340f18e6f3dc1080325af8073b661759"
+        }
+      ]
+    },
+    "voice133.mp3": {
+      "file_name": "voice133.mp3",
+      "instrument": "voice",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3234,
+          "predict_time": 498,
+          "labels": [
+            {
+              "label": "choir",
+              "max_perc": 0.721468985080719,
+              "average": 0.7204155027866364,
+              "min_perc": 0.7193620204925537,
+              "repeats": 2,
+              "label_id": "edf851924aa4435346f9b72fcd0fc2d955d26dca"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "bc62f1700d23ae0f1ca0150e0b52cdb648f64959"
+        }
+      ]
+    },
+    "voice134.mp3": {
+      "file_name": "voice134.mp3",
+      "instrument": "voice",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3286,
+          "predict_time": 506,
+          "labels": [
+            {
+              "label": "choir",
+              "max_perc": 0.6790996789932251,
+              "average": 0.5756383736928304,
+              "min_perc": 0.5053873062133789,
+              "repeats": 3,
+              "label_id": "10736037473c1596448db994c2c55041cc2ea83f"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "b2051cac1c82fa7c17056f2f50943cb2244415ed"
+        }
+      ]
+    },
+    "voice135.mp3": {
+      "file_name": "voice135.mp3",
+      "instrument": "voice",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3278,
+          "predict_time": 514,
+          "labels": [
+            {
+              "label": "choir",
+              "max_perc": 0.6028894186019897,
+              "average": 0.6028894186019897,
+              "min_perc": 0.6028894186019897,
+              "repeats": 1,
+              "label_id": "ce8151d73607c1f12da793a1e6cf8880cb8020ec"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "902ac818ba7b3e77bd2cdf138dbde21496dd87ef"
+        }
+      ]
+    },
+    "voice136.mp3": {
+      "file_name": "voice136.mp3",
+      "instrument": "voice",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3215,
+          "predict_time": 501,
+          "labels": [],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "7d609f739c5cdc07c0b40c410fa316c1f260431d"
+        }
+      ]
+    },
+    "voice137.mp3": {
+      "file_name": "voice137.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3236,
+          "predict_time": 502,
+          "labels": [
+            {
+              "label": "choir",
+              "max_perc": 0.7508294582366943,
+              "average": 0.6593021154403687,
+              "min_perc": 0.6002351641654968,
+              "repeats": 6,
+              "label_id": "1220032884035ad456a7549a3f5aa58e2c6a636f"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "8bf3052a4a813024d63650879f86d01c5421854c"
+        }
+      ]
+    },
+    "voice138.mp3": {
+      "file_name": "voice138.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3313,
+          "predict_time": 498,
+          "labels": [
+            {
+              "label": "choir",
+              "max_perc": 0.8038511276245117,
+              "average": 0.6355111002922058,
+              "min_perc": 0.5167244672775269,
+              "repeats": 7,
+              "label_id": "86367c3a1e7868f95db2e6b9009c568e30b691c5"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "98703b0b3be0126a383aa1da22c19edacc7825c8"
+        }
+      ]
+    },
+    "voice139.mp3": {
+      "file_name": "voice139.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3235,
+          "predict_time": 504,
+          "labels": [
+            {
+              "label": "choir",
+              "max_perc": 0.8946841955184937,
+              "average": 0.776888507604599,
+              "min_perc": 0.5844795107841492,
+              "repeats": 10,
+              "label_id": "b6b9d76dcbed614384fe7673b19ff6388c432380"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "c060ad8902fc1620b400344a5fd1e4e157c91949"
+        }
+      ]
+    },
+    "voice140.mp3": {
+      "file_name": "voice140.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3276,
+          "predict_time": 514,
+          "labels": [
+            {
+              "label": "choir",
+              "max_perc": 0.875741720199585,
+              "average": 0.7279113158583641,
+              "min_perc": 0.5141040682792664,
+              "repeats": 8,
+              "label_id": "1ed6ed8a6ab687332125b70500a04e500a0513c8"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "4aa6eeb584fa8ad09da8982362a799cb5feb5bb3"
+        }
+      ]
+    },
+    "voice141.mp3": {
+      "file_name": "voice141.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3228,
+          "predict_time": 501,
+          "labels": [
+            {
+              "label": "choir",
+              "max_perc": 0.9228984117507935,
+              "average": 0.7767795547842979,
+              "min_perc": 0.5380528569221497,
+              "repeats": 8,
+              "label_id": "e9d0c694a6ebfafb01b6374df5cb93965c2a4912"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "72aad5f23c8ef1be6d99c72990a8d6b25c797bbe"
+        }
+      ]
+    },
+    "voice142.mp3": {
+      "file_name": "voice142.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3235,
+          "predict_time": 531,
+          "labels": [
+            {
+              "label": "choir",
+              "max_perc": 0.8809309005737305,
+              "average": 0.7718228300412496,
+              "min_perc": 0.5723416805267334,
+              "repeats": 9,
+              "label_id": "729e3ad7c223baaeec82f7a10e595d1a3a929dea"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "96fda551fa13f74ed9b764270e4b6b4f08170129"
+        }
+      ]
+    },
+    "voice143.mp3": {
+      "file_name": "voice143.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3273,
+          "predict_time": 509,
+          "labels": [
+            {
+              "label": "choir",
+              "max_perc": 0.7571429014205933,
+              "average": 0.6551639238993326,
+              "min_perc": 0.5786541700363159,
+              "repeats": 3,
+              "label_id": "386f38b8fb70be54c2f6736b0d98f81f2a3498e7"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "2480bfb1cb540407ba1e81ad78995287d3631a3e"
+        }
+      ]
+    },
+    "voice144.mp3": {
+      "file_name": "voice144.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3224,
+          "predict_time": 499,
+          "labels": [
+            {
+              "label": "choir",
+              "max_perc": 0.7609119415283203,
+              "average": 0.7073949149676731,
+              "min_perc": 0.6331355571746826,
+              "repeats": 7,
+              "label_id": "e37f471c7e398238e38599e3f522f818863cd183"
+            },
+            {
+              "label": "choral",
+              "max_perc": 0.5596909523010254,
+              "average": 0.5596909523010254,
+              "min_perc": 0.5596909523010254,
+              "repeats": 1,
+              "label_id": "a423d477e3516648d561b973dd5c7d4bd2e4396c"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "abaed4d1db58eb86dfe6a69ad4b3c33d3ffd0d2c"
+        }
+      ]
+    },
+    "voice145.mp3": {
+      "file_name": "voice145.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3175,
+          "predict_time": 510,
+          "labels": [
+            {
+              "label": "choir",
+              "max_perc": 0.809468150138855,
+              "average": 0.6930397897958755,
+              "min_perc": 0.527161180973053,
+              "repeats": 8,
+              "label_id": "32dbbce9043dd07c479660acf07e41c4b3d9e462"
+            },
+            {
+              "label": "choral",
+              "max_perc": 0.5930705070495605,
+              "average": 0.5930705070495605,
+              "min_perc": 0.5930705070495605,
+              "repeats": 1,
+              "label_id": "c180baa7904f74d8165c913a04ba38d8f738200b"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "c92366800e8ee6f36f30c547ae81d8bd846869d3"
+        }
+      ]
+    },
+    "voice146.mp3": {
+      "file_name": "voice146.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3285,
+          "predict_time": 500,
+          "labels": [
+            {
+              "label": "choir",
+              "max_perc": 0.7733200788497925,
+              "average": 0.7320050199826559,
+              "min_perc": 0.6958059072494507,
+              "repeats": 6,
+              "label_id": "dd9a0dc2d1e67ab622d830e3ba4cba36e9769f17"
+            },
+            {
+              "label": "choral",
+              "max_perc": 0.5678685903549194,
+              "average": 0.5678685903549194,
+              "min_perc": 0.5678685903549194,
+              "repeats": 1,
+              "label_id": "c1db9b45afa8e16dca10109c0018e8847b824bbc"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "2121d60b44010c311a700639a8cb1f1ff3611ddd"
+        }
+      ]
+    },
+    "voice147.mp3": {
+      "file_name": "voice147.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3214,
+          "predict_time": 523,
+          "labels": [
+            {
+              "label": "choir",
+              "max_perc": 0.7148407697677612,
+              "average": 0.5992224931716919,
+              "min_perc": 0.5223162770271301,
+              "repeats": 5,
+              "label_id": "f321dcdaefff01eda339e85818561bfaeaec70c2"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "52a0ea66c11b8a2182bb09d4ba40a2fb2097ef98"
+        }
+      ]
+    },
+    "voice148.mp3": {
+      "file_name": "voice148.mp3",
+      "instrument": "voice",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3184,
+          "predict_time": 503,
+          "labels": [
+            {
+              "label": "choir",
+              "max_perc": 0.864599347114563,
+              "average": 0.6970855370163918,
+              "min_perc": 0.5043131709098816,
+              "repeats": 8,
+              "label_id": "1fcd86082481f243c02cb6813adbaaa57365e168"
+            },
+            {
+              "label": "choral",
+              "max_perc": 0.5917277932167053,
+              "average": 0.5406019488970438,
+              "min_perc": 0.506554901599884,
+              "repeats": 3,
+              "label_id": "2c0f8dc7946fe520d4cd491c37992b20c9068fe7"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "8b558f7289582b0eaf0d9e7afa1589061cebcabf"
+        }
+      ]
+    },
+    "voice149.mp3": {
+      "file_name": "voice149.mp3",
+      "instrument": "voice",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3212,
+          "predict_time": 505,
+          "labels": [
+            {
+              "label": "choir",
+              "max_perc": 0.6997572183609009,
+              "average": 0.6005051334698995,
+              "min_perc": 0.5085371732711792,
+              "repeats": 6,
+              "label_id": "e98c7f83a8bcb6339c70809aadaaf682440f823a"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "94d0abe109d4361d2a408089cb086f7c46491aab"
+        }
+      ]
+    }
+  }

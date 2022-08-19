@@ -1,0 +1,137 @@
+{
+    "voice0.mp3": {
+      "file_name": "voice0.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3229,
+          "predict_time": 542,
+          "labels": [
+            {
+              "label": "opera",
+              "max_perc": 0.5780152082443237,
+              "average": 0.5424199253320694,
+              "min_perc": 0.5084478259086609,
+              "repeats": 4,
+              "label_id": "76f99afd899f7bd2601b452e05eb46ef46fc4149"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "efa68963bb435a18bc7a063cc6e20a78f4a1363a"
+        }
+      ]
+    },
+    "voice1.mp3": {
+      "file_name": "voice1.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3248,
+          "predict_time": 519,
+          "labels": [],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "701f1d19c817f9d99f0bac005d02d24ccaa6a63d"
+        }
+      ]
+    },
+    "voice2.mp3": {
+      "file_name": "voice2.mp3",
+      "instrument": "voice",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3313,
+          "predict_time": 509,
+          "labels": [
+            {
+              "label": "female",
+              "max_perc": 0.7128676176071167,
+              "average": 0.6155966860907418,
+              "min_perc": 0.5498172640800476,
+              "repeats": 7,
+              "label_id": "77486808ac0f408a1c2a64762bdd61421bf4f176"
+            },
+            {
+              "label": "woman",
+              "max_perc": 0.5830763578414917,
+              "average": 0.5466967423756918,
+              "min_perc": 0.5118417143821716,
+              "repeats": 3,
+              "label_id": "121b27a5457610a97e7fed6239810083d6160f17"
+            },
+            {
+              "label": "opera",
+              "max_perc": 0.7952060699462891,
+              "average": 0.7046570181846619,
+              "min_perc": 0.6020352244377136,
+              "repeats": 4,
+              "label_id": "d27eff85363ef4f61bb783bce4737f4a3e6e1487"
+            },
+            {
+              "label": "guitar",
+              "max_perc": 0.5109899640083313,
+              "average": 0.5109899640083313,
+              "min_perc": 0.5109899640083313,
+              "repeats": 1,
+              "label_id": "f960436492017c329e8f54e1cc959819a4a37f97"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "5a8e4758e5bb4812662f6627a7641b6aa0d6520a"
+        }
+      ]
+    },
+    "voice3.mp3": {
+      "file_name": "voice3.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3314,
+          "predict_time": 519,
+          "labels": [
+            {
+              "label": "female",
+              "max_perc": 0.6195088624954224,
+              "average": 0.576398640871048,
+              "min_perc": 0.5528296232223511,
+              "repeats": 4,
+              "label_id": "24d4d16c1b7991106fdfb95eb5fbca947ed80998"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "7da7bc45bafb7cc6fe78d1cc51234d1926ba2653"
+        }
+      ]
+    },
+    "voice4.mp3": {
+      "file_name": "voice4.mp3",
+      "instrument": "voice",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3311,
+          "predict_time": 518,
+          "labels": [
+            {
+              "label": "violin",
+              "max_perc": 0.5777355432510376,
+              "average": 0.5777355432510376,
+              "min_perc": 0.5777355432510376,
+              "repeats": 1,
+              "label_id": "cef6e60b3ff6f137e76ee33a83c1e8308f03f454"
+            }
+          ],
+          "model": "mtt-musicnn-1",
+          "threshold": 0.5,
+          "predict_id": "4964852e7bf2dcb932052407d8fa540185bebbc2"
+        }
+      ]
+    }
+  }

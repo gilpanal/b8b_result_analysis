@@ -1,0 +1,313 @@
+voice100.mp3
+sumExtractTime 3254
+sumPredictTime 499
+execs 1
+accuracy 0
+ 
+voice101.mp3
+sumExtractTime 3266
+sumPredictTime 507
+execs 1
+accuracy 0
+ 
+voice102.mp3
+sumExtractTime 3261
+sumPredictTime 507
+execs 1
+accuracy 0
+ 
+voice103.mp3
+sumExtractTime 3247
+sumPredictTime 507
+execs 1
+accuracy 1
+ 
+voice104.mp3
+sumExtractTime 3322
+sumPredictTime 528
+execs 1
+accuracy 0
+ 
+voice105.mp3
+sumExtractTime 3254
+sumPredictTime 503
+execs 1
+accuracy 0
+ 
+voice106.mp3
+sumExtractTime 3195
+sumPredictTime 508
+execs 1
+accuracy 1
+ 
+voice107.mp3
+sumExtractTime 3246
+sumPredictTime 514
+execs 1
+accuracy 1
+ 
+voice108.mp3
+sumExtractTime 3278
+sumPredictTime 535
+execs 1
+accuracy 1
+ 
+voice109.mp3
+sumExtractTime 3345
+sumPredictTime 528
+execs 1
+accuracy 1
+ 
+voice110.mp3
+sumExtractTime 3316
+sumPredictTime 514
+execs 1
+accuracy 0.5
+ 
+voice111.mp3
+sumExtractTime 3343
+sumPredictTime 534
+execs 1
+accuracy 0
+ 
+voice112.mp3
+sumExtractTime 3345
+sumPredictTime 512
+execs 1
+accuracy 1
+ 
+voice113.mp3
+sumExtractTime 3322
+sumPredictTime 526
+execs 1
+accuracy 0
+ 
+voice114.mp3
+sumExtractTime 3514
+sumPredictTime 582
+execs 1
+accuracy 1
+ 
+voice115.mp3
+sumExtractTime 3405
+sumPredictTime 505
+execs 1
+accuracy 1
+ 
+voice116.mp3
+sumExtractTime 3365
+sumPredictTime 506
+execs 1
+accuracy 1
+ 
+voice117.mp3
+sumExtractTime 3369
+sumPredictTime 520
+execs 1
+accuracy 1
+ 
+voice118.mp3
+sumExtractTime 3365
+sumPredictTime 514
+execs 1
+accuracy 1
+ 
+voice119.mp3
+sumExtractTime 3369
+sumPredictTime 515
+execs 1
+accuracy 1
+ 
+voice120.mp3
+sumExtractTime 3341
+sumPredictTime 513
+execs 1
+accuracy 1
+ 
+voice121.mp3
+sumExtractTime 3258
+sumPredictTime 512
+execs 1
+accuracy 1
+ 
+voice122.mp3
+sumExtractTime 3253
+sumPredictTime 516
+execs 1
+accuracy 1
+ 
+voice123.mp3
+sumExtractTime 3285
+sumPredictTime 518
+execs 1
+accuracy 1
+ 
+voice124.mp3
+sumExtractTime 3345
+sumPredictTime 505
+execs 1
+accuracy 0
+ 
+voice125.mp3
+sumExtractTime 3330
+sumPredictTime 507
+execs 1
+accuracy 1
+ 
+voice126.mp3
+sumExtractTime 3241
+sumPredictTime 508
+execs 1
+accuracy 1
+ 
+voice127.mp3
+sumExtractTime 3151
+sumPredictTime 502
+execs 1
+accuracy 1
+ 
+voice128.mp3
+sumExtractTime 3231
+sumPredictTime 508
+execs 1
+accuracy 0
+ 
+voice129.mp3
+sumExtractTime 3166
+sumPredictTime 509
+execs 1
+accuracy 1
+ 
+voice130.mp3
+sumExtractTime 3275
+sumPredictTime 505
+execs 1
+accuracy 1
+ 
+voice131.mp3
+sumExtractTime 3346
+sumPredictTime 532
+execs 1
+accuracy 1
+ 
+voice132.mp3
+sumExtractTime 3191
+sumPredictTime 527
+execs 1
+accuracy 1
+ 
+voice133.mp3
+sumExtractTime 3247
+sumPredictTime 505
+execs 1
+accuracy 1
+ 
+voice134.mp3
+sumExtractTime 3292
+sumPredictTime 503
+execs 1
+accuracy 1
+ 
+voice135.mp3
+sumExtractTime 3284
+sumPredictTime 519
+execs 1
+accuracy 1
+ 
+voice136.mp3
+sumExtractTime 3350
+sumPredictTime 507
+execs 1
+accuracy 0
+ 
+voice137.mp3
+sumExtractTime 3294
+sumPredictTime 503
+execs 1
+accuracy 1
+ 
+voice138.mp3
+sumExtractTime 3317
+sumPredictTime 506
+execs 1
+accuracy 1
+ 
+voice139.mp3
+sumExtractTime 3293
+sumPredictTime 515
+execs 1
+accuracy 1
+ 
+voice140.mp3
+sumExtractTime 3275
+sumPredictTime 505
+execs 1
+accuracy 1
+ 
+voice141.mp3
+sumExtractTime 3374
+sumPredictTime 512
+execs 1
+accuracy 1
+ 
+voice142.mp3
+sumExtractTime 3313
+sumPredictTime 512
+execs 1
+accuracy 1
+ 
+voice143.mp3
+sumExtractTime 3329
+sumPredictTime 517
+execs 1
+accuracy 1
+ 
+voice144.mp3
+sumExtractTime 3293
+sumPredictTime 510
+execs 1
+accuracy 1
+ 
+voice145.mp3
+sumExtractTime 3273
+sumPredictTime 504
+execs 1
+accuracy 1
+ 
+voice146.mp3
+sumExtractTime 3348
+sumPredictTime 518
+execs 1
+accuracy 1
+ 
+voice147.mp3
+sumExtractTime 3267
+sumPredictTime 505
+execs 1
+accuracy 1
+ 
+voice148.mp3
+sumExtractTime 3286
+sumPredictTime 525
+execs 1
+accuracy 1
+ 
+voice149.mp3
+sumExtractTime 3314
+sumPredictTime 519
+execs 1
+accuracy 1
+ 
+ 
+ Group:  voice
+averageExtractTime 3298.86
+averagePredictTime 514.22
+averageAccuracy 0.79
+numInstFiles 50
+ 
+ 
+ Group:  TOTAL
+averageExtractTime 3298.86
+averagePredictTime 514.22
+averageAccuracy 0.79
+numInstFiles 50

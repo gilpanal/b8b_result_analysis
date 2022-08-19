@@ -1,7 +1,11 @@
 const fetch = require('node-fetch')
 const RESULTS_ENPOINT = 'http://localhost:3001/files'
 
-const voiceValidClasses = ['vocal', 'female', 'male', 'singing', 'vocals', 'woman', 'male vocal', 'man', 'choir', 'voice', 'male voice', 'female vocal', 'female voice', 'choral']
+//const voiceValidClasses = ['vocal', 'female', 'male', 'singing', 'vocals', 'woman', 'male vocal', 'man', 'choir', 'voice', 'male voice', 'female vocal', 'female voice', 'choral']
+
+// including 'opera' as equivalent to 'voice' to bridge the semantic gap
+const voiceValidClasses = ['vocal', 'female', 'opera', 'male', 'singing', 'vocals', 'woman', 'male vocal', 'man', 'choir', 'voice', 'male voice', 'female vocal', 'female voice', 'choral']
+
 
 filterAllByValue = (array, string) => {
 

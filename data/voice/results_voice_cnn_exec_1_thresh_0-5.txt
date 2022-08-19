@@ -1,0 +1,43 @@
+voice0.mp3
+sumExtractTime 3229
+sumPredictTime 542
+execs 1
+accuracy 1
+ 
+voice1.mp3
+sumExtractTime 3248
+sumPredictTime 519
+execs 1
+accuracy 0
+ 
+voice2.mp3
+sumExtractTime 3313
+sumPredictTime 509
+execs 1
+accuracy 1
+ 
+voice3.mp3
+sumExtractTime 3314
+sumPredictTime 519
+execs 1
+accuracy 1
+ 
+voice4.mp3
+sumExtractTime 3311
+sumPredictTime 518
+execs 1
+accuracy 0
+ 
+ 
+ Group:  voice
+averageExtractTime 3283
+averagePredictTime 521.4
+averageAccuracy 0.6
+numInstFiles 5
+ 
+ 
+ Group:  TOTAL
+averageExtractTime 3283
+averagePredictTime 521.4
+averageAccuracy 0.6
+numInstFiles 5
