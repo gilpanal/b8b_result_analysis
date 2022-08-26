@@ -1,0 +1,144 @@
+{
+    "voice0.mp3": {
+      "file_name": "voice0.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3276,
+          "predict_time": 315,
+          "labels": [
+            {
+              "label": "opera",
+              "max_perc": 0.5866619944572449,
+              "average": 0.5866619944572449,
+              "min_perc": 0.5866619944572449,
+              "repeats": 1,
+              "label_id": "289ed53b5f6a41668fde3a751272f4828408994b"
+            },
+            {
+              "label": "male",
+              "max_perc": 0.6425771713256836,
+              "average": 0.5912998020648956,
+              "min_perc": 0.5400224328041077,
+              "repeats": 2,
+              "label_id": "f1612dd4a938ea25ba1ae032b074a1911710c719"
+            },
+            {
+              "label": "choir",
+              "max_perc": 0.5283780097961426,
+              "average": 0.5283780097961426,
+              "min_perc": 0.5283780097961426,
+              "repeats": 1,
+              "label_id": "624b398de4d34df7e365ffa5fc85933e94aae98e"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "eaf4caeb13ff9c54b8cfebfde61822bb9f91c339"
+        }
+      ]
+    },
+    "voice1.mp3": {
+      "file_name": "voice1.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3310,
+          "predict_time": 273,
+          "labels": [],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "a8f516d9c8dec759b23c209de96ddaac0c232255"
+        }
+      ]
+    },
+    "voice2.mp3": {
+      "file_name": "voice2.mp3",
+      "instrument": "voice",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3317,
+          "predict_time": 265,
+          "labels": [
+            {
+              "label": "female",
+              "max_perc": 0.7120739817619324,
+              "average": 0.6626292665799459,
+              "min_perc": 0.6241361498832703,
+              "repeats": 3,
+              "label_id": "58c47b282a6b17c12c5297a6bcad63ec9fe7bf18"
+            },
+            {
+              "label": "woman",
+              "max_perc": 0.6745702028274536,
+              "average": 0.5934085448582967,
+              "min_perc": 0.5143678188323975,
+              "repeats": 3,
+              "label_id": "eb148288674ecbe1cd158621f0b3bb72c9fad701"
+            },
+            {
+              "label": "opera",
+              "max_perc": 0.8313581943511963,
+              "average": 0.6773515144983927,
+              "min_perc": 0.5665612816810608,
+              "repeats": 3,
+              "label_id": "d020a1f5b669ff1c9efb97f468a63e032c961577"
+            },
+            {
+              "label": "guitar",
+              "max_perc": 0.6782961487770081,
+              "average": 0.6048293709754944,
+              "min_perc": 0.5313625931739807,
+              "repeats": 2,
+              "label_id": "1345633aad6d776d7851fe69b4e29f306e857bbd"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "1b7cad67d236cee9ee9043d3ab907608ddb1f29f"
+        }
+      ]
+    },
+    "voice3.mp3": {
+      "file_name": "voice3.mp3",
+      "instrument": "voice",
+      "mixed": false,
+      "execs": [
+        {
+          "extract_time": 3324,
+          "predict_time": 337,
+          "labels": [
+            {
+              "label": "female",
+              "max_perc": 0.5279757380485535,
+              "average": 0.5279757380485535,
+              "min_perc": 0.5279757380485535,
+              "repeats": 1,
+              "label_id": "79ffa0a5f3457d59bede8ba8bd8c31f27ada88db"
+            }
+          ],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "d2ed7e371eaf348c23449811a3e63a45f85b6570"
+        }
+      ]
+    },
+    "voice4.mp3": {
+      "file_name": "voice4.mp3",
+      "instrument": "voice",
+      "mixed": true,
+      "execs": [
+        {
+          "extract_time": 3457,
+          "predict_time": 267,
+          "labels": [],
+          "model": "mtt-vgg-1",
+          "threshold": 0.5,
+          "predict_id": "d5906a8d97ff154192408f0477889270e50bdd15"
+        }
+      ]
+    }
+  }
